@@ -21,12 +21,12 @@ var resultArr = {
 
 var years = Object.keys(resultArr);
 
-var fileDirectory = path.join(__dirname, '/data/');
+var fileDirectory = path.join(__dirname, '../data/');
 
 Promise.all(years.map(makeRequest))
 .then(function(results){
 	var promiseArr = results.map(function(result, index){
-		return promisifiedWriteFile(path.join(fileDirectory, `${years[index]}Bracket.js`), JSON.stringify(result));
+		return promisifiedWriteFile(path.join(fileDirectory, `${years[index]}Bracket.js`), `module.exports=${JSON.stringify(result)};`);
 	});
 	return Promise.all(promiseArr);
 }, function(err){
