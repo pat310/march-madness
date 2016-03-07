@@ -1,3 +1,5 @@
+'use strict';
+
 var rp = require('request-promise');
 var cheerio = require('cheerio');
 
@@ -47,7 +49,7 @@ function makeRequest(year){
 }
 
 function parseHtml(htmlString, year){
-	$ = cheerio.load(htmlString);
+	var $ = cheerio.load(htmlString);
 	return resultArr[year].map(function(sliceNum, index){
 		var data = $($('tr.row2').contents()[sliceNum]).text().replace(/\n/g, "!").replace(/!{2,}/g, '!').split('!');
 		if(index === 0 && year === '2001') return parseWinners(data, 3);
@@ -59,8 +61,9 @@ function parseWinners(data, sliceNum){
 	sliceNum = sliceNum || 0;
 
 	return data.slice(sliceNum).reduce(function(acc, curr){
-	    if(curr.length <= 17) return acc;
+	    if(!curr.trim().match(/(\d{1,3}$|\(?OT\)?)/)) return acc;
 	    curr = curr.split(', ');
+	    if(curr.length === 1) curr = curr[0].match(/(([a-z]+\s)+\d{1,3}){1}/ig);
 	    acc.winners.push(curr[0].replace(/No. \d{1,2} /, ""));
 	    acc.losers.push(curr[1].replace(/No. \d{1,2} /, ""));
 	    return acc;
