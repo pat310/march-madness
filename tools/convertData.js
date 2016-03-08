@@ -24,6 +24,9 @@ function removeScores(teams){
 	});
 }
 
-console.log(convertDataToList(2001));
+// console.log(convertDataToList(2001));
 
-// module.exports = convertData;
+module.exports = {
+	toPlacement: convertDataToPlacement,
+	toList: convertDataToList
+};

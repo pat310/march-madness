@@ -13,7 +13,7 @@ var rankingSchema = new mongoose.Schema({
 	neutralWinWeight: Number,
 	slope: Number,
 	intervals: Number,
-	maxScore: Number,
+	maxscore: Number,
 	totalValue: Number,
 	data: {
 		school: {type: String}, 
