@@ -2,10 +2,18 @@
 
 var dataFrom = require(__dirname + '/../data/');
 
-function convertData(year){
+function convertDataToPlacement(year){
 	return dataFrom(year).reduceRight(function(acc, curr, index, arr){
 		if(index === arr.length - 1) acc = acc.concat([removeScores(curr.winners)]);
 		acc = acc.concat([removeScores(curr.losers)]);
+		return acc;
+	}, []);
+}
+
+function convertDataToList(year){
+	return dataFrom(year).reduceRight(function(acc, curr, index, arr){
+		if(index === arr.length - 1) acc = acc.concat(removeScores(curr.winners));
+		acc = acc.concat(removeScores(curr.losers));
 		return acc;
 	}, []);
 }
@@ -16,4 +24,6 @@ function removeScores(teams){
 	});
 }
 
-module.exports = convertData;
+console.log(convertDataToList(2001));
+
+// module.exports = convertData;
