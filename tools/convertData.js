@@ -20,7 +20,7 @@ function convertDataToList(year){
 
 function removeScores(teams){
 	return teams.map(function(team){
-		return team.replace(/\d{1,3}/, '').replace(/(\(OT\)|\(2OT\))/, '').trim().replace(/\s/g,'_');
+		return team.replace(/\d{1,3}/, '').replace(/(\(OT\)|\(2OT\))/, '').trim().replace(/\s/g,'_').replace(/\.$/,'');
 	});
 }
 
