@@ -3,7 +3,7 @@ var generateResults = require(__dirname + '/tools/scrapeAlgos.js');
 var missingTeams = require(__dirname + '/tools/teamFuncs.js');
 var rank = ['Colley', 'Massey'];
 
-var year = 2007;
+var year = 2008;
 
 var options = {
 	ranking: rank[0],

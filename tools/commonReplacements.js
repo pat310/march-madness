@@ -54,4 +54,12 @@ module.exports = {
   'Texas_A&am;M-Corpus_Christi': 'Texas_A&M',
   'C_Connecticut_State': 'Central_Conn',
   'Brigham_Young': 'BYU',
+  'Miami': 'Miami_FL',
+  'Mount_St_Mary\'s': 'St_Mary\'s_CA',
+  'Saint_Joseph\'s': 'St_Joseph\'s_PA',
+  'American': 'American_Univ',
+  'Cal_State_Fullerton': 'CS_Fullerton',
+  'Maryland-Baltimore_County': 'MD_Baltimore_Co',
+  'Texas-Arlington': 'UT_Arlington',
+  'Mississippi_Valley_State': 'MS_Valley_St',
 };
