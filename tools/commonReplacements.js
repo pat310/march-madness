@@ -68,5 +68,9 @@ module.exports = {
   'Saint_Mary�s': 'St_Mary\'s_CA',
   'UC_Santa_Barbara': 'Santa_Barbara',
   'East_Tennessee_St': 'ETSU',
-  'Arkansas-Pine_Bluff': 'Ark_Pine_Bluff'
+  'Arkansas-Pine_Bluff': 'Ark_Pine_Bluff',
+  'Texas-San_Antonio': 'UT_San_Antonio',
+  'Northern_Colorado': 'N_Colorado',
+  'Boston_University': 'Boston_Univ',
+  'Texas_A∓M': 'Texas_A&M'
 };
