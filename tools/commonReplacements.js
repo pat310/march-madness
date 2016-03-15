@@ -72,5 +72,12 @@ module.exports = {
   'Texas-San_Antonio': 'UT_San_Antonio',
   'Northern_Colorado': 'N_Colorado',
   'Boston_University': 'Boston_Univ',
-  'Texas_A∓M': 'Texas_A&M'
+  'Texas_A∓M': 'Texas_A&M',
+  'Saint_Louis': 'St_Louis',
+  'UConn': 'Connecticut',
+  'South_Dakota_State': 'S_Dakota_St',
+  'LIU': 'Long_Island',
+  'Southern_Mississippi': 'Southern_Miss',
+  'Loyola_(Md)': 'Loyola_MD',
+  'Saint_Mary\'s_(Calif)': 'St_Mary\'s_CA'
 };
