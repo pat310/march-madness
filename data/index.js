@@ -1,3 +1,4 @@
+'use strict';
 var data = {
 	2001: require(__dirname + '/2001Bracket.js'),
 	2002: require(__dirname + '/2002Bracket.js'),

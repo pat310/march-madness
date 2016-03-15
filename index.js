@@ -1,10 +1,13 @@
-var makeRequest = require(__dirname + '/tools/scrapeAlgos.js');
-
+'use strict';
+var generateResults = require(__dirname + '/tools/scrapeAlgos.js');
+var missingTeams = require(__dirname + '/tools/teamFuncs.js');
 var rank = ['Colley', 'Massey'];
+
+var year = 2002;
 
 var options = {
 	ranking: rank[0],
-	year: 2001,
+	year: year,
 	weight: 'Uniform',
 	k: 300,
 	homeWinWeight: 1,
@@ -15,10 +18,11 @@ var options = {
 	maxscore: undefined
 };
 
-makeRequest(options)
+generateResults(options)
 .then(function(results){
-	console.log('results', results);
+	var missing = missingTeams(year, results);
+	console.log('missing', missing);
 })
 .catch(function(err){
-	console.log('error!', err);
+	console.log('there was an err', err);
 });
