@@ -65,4 +65,8 @@ module.exports = {
   'Stephen_F_Austin': 'SF_Austin',
   'North_Dakota_State': 'N_Dakota_St',
   'Cal_State_Northridge': 'CS_Northridge',
+  'Saint_Mary�s': 'St_Mary\'s_CA',
+  'UC_Santa_Barbara': 'Santa_Barbara',
+  'East_Tennessee_St': 'ETSU',
+  'Arkansas-Pine_Bluff': 'Ark_Pine_Bluff'
 };
