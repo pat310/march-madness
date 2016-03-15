@@ -62,4 +62,7 @@ module.exports = {
   'Maryland-Baltimore_County': 'MD_Baltimore_Co',
   'Texas-Arlington': 'UT_Arlington',
   'Mississippi_Valley_State': 'MS_Valley_St',
+  'Stephen_F_Austin': 'SF_Austin',
+  'North_Dakota_State': 'N_Dakota_St',
+  'Cal_State_Northridge': 'CS_Northridge',
 };
