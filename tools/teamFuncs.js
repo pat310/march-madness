@@ -46,7 +46,6 @@ function scoreAlgo(realList, algoList, hash){
 
 function mainFunc(year, hash){
 	var teams = convertData.toPlacementByScore(year).filter(function(team){return !!team;});
-	console.log('teams', teams);
 	var algoList = removeTeamsAndSort(teams, hash);
 	return scoreAlgo(teams, algoList, hash);
 }
