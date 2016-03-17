@@ -10,6 +10,14 @@ function convertDataToPlacement(year){
 	}, []);
 }
 
+function convertDataToPlacementWithDuplicates(year){
+	return dataFrom(year).reduceRight(function(acc, curr, index, arr){
+		acc = acc.concat([removeScores(curr.winners)]);
+		// if(index === 0) acc = acc.concat([removeScores(curr.losers)]);
+		return acc;
+	}, []);
+}
+
 function convertDataToList(year){
 	return dataFrom(year).reduceRight(function(acc, curr, index, arr){
 		if(index === arr.length - 1) acc = acc.concat(removeScores(curr.winners));
@@ -57,10 +65,11 @@ function removeScore(team){
 	return team.replace(/\d{1,3}/, '').replace(/(\(OT\)|\(2OT\))/, '').trim().replace(/\s/g,'_').replace(/\./g,'');
 }
 
-// console.log(convertDataToTopTeamsList(2001));
+// console.log(convertDataToList(2001));
 
 module.exports = {
 	toPlacement: convertDataToPlacement,
 	toList: convertDataToList,
 	toPlacementByScore: convertDataToTopTeamsList,
+	toPlacementDuplicates: convertDataToPlacementWithDuplicates
 };

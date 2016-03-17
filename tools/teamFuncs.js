@@ -33,6 +33,7 @@ function removeTeamsAndSort(teams, hash){
 	});
 }
 
+//non-weighted algorithm
 function scoreAlgo(realList, algoList, hash){
 	var score = 0;
 	realList.forEach(function(team, index){
@@ -44,10 +45,34 @@ function scoreAlgo(realList, algoList, hash){
 	return score;
 }
 
+//weighted algorithm
+function scoreWeightedAlgo(realList, algoList, hash){
+	var score = 0;
+	var roundPoints = [32, 16, 8, 4, 2, 1];
+
+	algoList.forEach(function(team, index){
+		realList.forEach(function(bracket, round){
+			if(bracket.some(function(roundTeam){
+				return convertTeamName(roundTeam, hash) === team;
+			})){
+				if(index === 0) score += roundPoints[round];
+				else if(index <= 1 && round >= 1) score += roundPoints[round];
+				else if(index <= 4 && round >= 2) score += roundPoints[round];
+				else if(index <= 16 && round >= 3) score += roundPoints[round];
+				else if(index <= 32 && round >= 4) score += roundPoints[round];
+				else if(index <= 63 && round >= 5) score += roundPoints[round];
+			}
+		});
+	});
+
+	return score;
+}
+
 function mainFunc(year, hash){
-	var teams = convertData.toPlacementByScore(year).filter(function(team){return !!team;});
+	var teams = convertData.toList(year).filter(function(team){return !!team;});
 	var algoList = removeTeamsAndSort(teams, hash);
-	return scoreAlgo(teams, algoList, hash);
+	var teamsByPlacement = convertData.toPlacementDuplicates(year);
+	return scoreWeightedAlgo(teamsByPlacement, algoList, hash);
 }
 
 module.exports = mainFunc;

@@ -21,7 +21,7 @@ var options = {
 	awayWinWeight: 1,
 	neutralWinWeight: 1,
 	slope: undefined,
-	intervals: undefined,
+	intervals: 2,
 	maxscore: undefined
 };
 
@@ -56,7 +56,7 @@ if(weight === 'Intervals') listVariables.push('intervals');
 if(rank === 'Massey') listVariables.push('maxscore');
 
 function adjustOptions(resultsCurr, resultsPrev){
-	if(!resultsPrev || resultsCurr <= resultsPrev){
+	if(!resultsPrev || resultsCurr > resultsPrev){
 		scorePrev = resultsCurr;
 		if(listVariables[variableIndex] !== 'intervals') options[listVariables[variableIndex]]++;
 		else options[listVariables[variableIndex]]+= 1;
@@ -74,8 +74,8 @@ function adjustOptions(resultsCurr, resultsPrev){
 
 	options[listVariables[variableIndex]]--;
 	console.log("final score:", resultsPrev, "options", options);
-	var promise1 = promisifiedAppendFile(`./quickResults/${rank}${weight}.csv`, `${resultsPrev}\n`);
-	var promise2 = promisifiedAppendFile(`./quickResults/${rank}${weight}.txt`, `score: ${resultsPrev}, options: ${JSON.stringify(options)}\n`);
+	var promise1 = promisifiedAppendFile(`./quickResults/${rank}${weight}2.csv`, `${resultsPrev}\n`);
+	var promise2 = promisifiedAppendFile(`./quickResults/${rank}${weight}2.txt`, `score: ${resultsPrev}, options: ${JSON.stringify(options)}\n`);
 
 	Promise.all([promise1, promise2])
 	.then(function(){
