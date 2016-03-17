@@ -5,12 +5,12 @@ var ranks = ['Colley', 'Massey'];
 var weighting = ['Uniform', 'Log', 'Linear', 'Intervals'];
 
 var rank = ranks[0];
-var weight = weighting[0];
+var weight = weighting[3];
 
 
 var fs = require('fs');
 
-var year = 2005;
+var year = 2012;
 
 var options = {
 	ranking: rank,
@@ -27,14 +27,14 @@ var options = {
 
 var scorePrev;
 
-generateResults(options)
-.then(function(results){
-	var score = mainFunc(year, results);
-	console.log('score', score);
-})
-.catch(function(err){
-	console.log('there was an err', err);
-});
+// generateResults(options)
+// .then(function(results){
+// 	var score = mainFunc(year, results);
+// 	console.log('score', score);
+// })
+// .catch(function(err){
+// 	console.log('there was an err', err);
+// });
 
 function scoreCalculation(){
 	return generateResults(options)
@@ -53,17 +53,22 @@ var listVariables = ['homeWinWeight', 'awayWinWeight', 'neutralWinWeight'];
 
 if(weight === 'Linear') listVariables.push('slope');
 if(weight === 'Intervals') listVariables.push('intervals');
+if(rank === 'Massey') listVariables.push('maxscore');
 
 function adjustOptions(resultsCurr, resultsPrev){
-	if(!resultsPrev || resultsCurr < resultsPrev){
+	if(!resultsPrev || resultsCurr <= resultsPrev){
 		scorePrev = resultsCurr;
-		options[listVariables[variableIndex]]++;
+		if(listVariables[variableIndex] !== 'intervals') options[listVariables[variableIndex]]++;
+		else options[listVariables[variableIndex]]+= 1;
 		return scoreCalculation();
 	}
 	if(variableIndex < listVariables.length - 1){
 		options[listVariables[variableIndex]]--;
 		variableIndex++;
-		options[listVariables[variableIndex]]++;
+		if(!options[listVariables[variableIndex]]) options[listVariables[variableIndex]] = 0;
+		
+		if(listVariables[variableIndex] !== 'intervals') options[listVariables[variableIndex]]++;
+		else options[listVariables[variableIndex]]+= 1;
 		return scoreCalculation();
 	}
 
