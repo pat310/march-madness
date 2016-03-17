@@ -14,4 +14,9 @@ function teamsMatch(team, hash){
 	return !!hash[team] || !!hash[team.replace(/State/, 'St')] || !!hash[commonReplacements[team]];
 }
 
+
+function removeTeams(team, hash){
+
+}
+
 module.exports = missingTeams;
