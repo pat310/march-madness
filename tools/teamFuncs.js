@@ -24,7 +24,6 @@ function removeTeamsAndSort(teams, hash){
 	var list = teams.map(function(team){
 		return team + ' ' + hash[convertTeamName(team, hash)];
 	});
-
 	var newList = list.sort(function(b, a){
 		return a.match(/\s\d+\.\d+/)[0] - b.match(/\s\d+\.\d+/)[0];
 	});
@@ -46,7 +45,8 @@ function scoreAlgo(realList, algoList, hash){
 }
 
 function mainFunc(year, hash){
-	var teams = convertData.toPlacementByScore(year);
+	var teams = convertData.toPlacementByScore(year).filter(function(team){return !!team;});
+	console.log('teams', teams);
 	var algoList = removeTeamsAndSort(teams, hash);
 	return scoreAlgo(teams, algoList, hash);
 }

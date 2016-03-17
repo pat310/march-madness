@@ -22,11 +22,11 @@ function convertDataToTopTeamsList(year){
 	var teamList = dataFrom(year).reduce(function(acc, curr, index, arr){
 
 		var list = curr.winners.map(function(team, index){
-			var winnerScore = team.match(/\d{2,3}/)[0];
-			var loserScore = curr.losers[index].match(/\d{2,3}/)[0];
+			var winnerScore = 0, loserScore = 0;
+			if(!!team.match(/\d{2,3}/)) team.match(/\d{2,3}/)[0];
+			if(!!curr.losers[index].match(/\d{2,3}/)) curr.losers[index].match(/\d{2,3}/)[0];
 			return removeScore(curr.losers[index]) + " " + (parseInt(winnerScore) - parseInt(loserScore));
 		});
-
 
 		list = list.sort(function(b, a){
 			return parseInt(a.match(/\s\d{1,2}/)[0]) - parseInt(b.match(/\s\d{1,2}/)[0]);

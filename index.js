@@ -3,7 +3,7 @@ var generateResults = require(__dirname + '/tools/scrapeAlgos.js');
 var mainFunc = require(__dirname + '/tools/teamFuncs.js');
 var rank = ['Colley', 'Massey'];
 
-var year = 2001;
+var year = 2012;
 
 var options = {
 	ranking: rank[0],
@@ -12,7 +12,7 @@ var options = {
 	k: 300,
 	homeWinWeight: 1,
 	awayWinWeight: 1,
-	neutralWinWeight: 5,
+	neutralWinWeight: 1,
 	slope: undefined,
 	intervals: undefined,
 	maxscore: undefined

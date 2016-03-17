@@ -1,6 +1,6 @@
 'use strict';
 var mongoose = require('mongoose');
-mongoose.connect('mongodb://localhost/wikistack');
+mongoose.connect('mongodb://localhost/march-madness');
 var db = mongoose.connection;
 db.on('error', console.error.bind(console, 'mongodb connection error:'));
 
@@ -16,10 +16,6 @@ var rankingSchema = new mongoose.Schema({
 	intervals: Number,
 	maxscore: Number,
 	totalValue: Number,
-	data: {
-		school: {type: String}, 
-		points: {type: Number}
-	}
 });
 
 var weighting = {
