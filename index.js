@@ -1,6 +1,6 @@
 'use strict';
 var generateResults = require(__dirname + '/tools/scrapeAlgos.js');
-var removeTeamsAndSort = require(__dirname + '/tools/teamFuncs.js');
+var mainFunc = require(__dirname + '/tools/teamFuncs.js');
 var rank = ['Colley', 'Massey'];
 
 var year = 2001;
@@ -12,7 +12,7 @@ var options = {
 	k: 300,
 	homeWinWeight: 1,
 	awayWinWeight: 1,
-	neutralWinWeight: 1,
+	neutralWinWeight: 5,
 	slope: undefined,
 	intervals: undefined,
 	maxscore: undefined
@@ -20,9 +20,11 @@ var options = {
 
 generateResults(options)
 .then(function(results){
-	var missing = removeTeamsAndSort(year, results);
-	console.log('missing', missing);
+	var score = mainFunc(year, results);
+	console.log('score', score);
 })
 .catch(function(err){
 	console.log('there was an err', err);
 });
+
+

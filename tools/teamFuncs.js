@@ -20,9 +20,7 @@ function convertTeamName(team, hash){
 	if(!!hash[commonReplacements[team]]) return commonReplacements[team];
 }
 
-function removeTeamsAndSort(year, hash){
-	var teams = convertData.toPlacementByScore(year);
-
+function removeTeamsAndSort(teams, hash){
 	var list = teams.map(function(team){
 		return team + ' ' + hash[convertTeamName(team, hash)];
 	});
@@ -36,4 +34,21 @@ function removeTeamsAndSort(year, hash){
 	});
 }
 
-module.exports = removeTeamsAndSort;
+function scoreAlgo(realList, algoList, hash){
+	var score = 0;
+	realList.forEach(function(team, index){
+		var algoIndex = algoList.findIndex(function(algoTeam){
+			return algoTeam === convertTeamName(team, hash);
+		});
+		score += Math.abs(index - algoIndex);
+	});
+	return score;
+}
+
+function mainFunc(year, hash){
+	var teams = convertData.toPlacementByScore(year);
+	var algoList = removeTeamsAndSort(teams, hash);
+	return scoreAlgo(teams, algoList, hash);
+}
+
+module.exports = mainFunc;
