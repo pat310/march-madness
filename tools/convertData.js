@@ -29,7 +29,7 @@ function convertDataToTopTeamsList(year){
 
 
 		list = list.sort(function(b, a){
-			return a.match(/\s\d{1,2}/)[0] - b.match(/\s\d{1,2}/)[0];
+			return parseInt(a.match(/\s\d{1,2}/)[0]) - parseInt(b.match(/\s\d{1,2}/)[0]);
 		});
 
 		list.forEach(function(team){
@@ -57,10 +57,10 @@ function removeScore(team){
 	return team.replace(/\d{1,3}/, '').replace(/(\(OT\)|\(2OT\))/, '').trim().replace(/\s/g,'_').replace(/\./g,'');
 }
 
-console.log(convertDataToTopTeamsList(2001));
+// console.log(convertDataToTopTeamsList(2001));
 
 module.exports = {
 	toPlacement: convertDataToPlacement,
 	toList: convertDataToList,
-	toPlacementByScore: convertDataToTopTeamsList
+	toPlacementByScore: convertDataToTopTeamsList,
 };

@@ -1,9 +1,9 @@
 'use strict';
 var generateResults = require(__dirname + '/tools/scrapeAlgos.js');
-var missingTeams = require(__dirname + '/tools/teamFuncs.js');
+var removeTeamsAndSort = require(__dirname + '/tools/teamFuncs.js');
 var rank = ['Colley', 'Massey'];
 
-var year = 2012;
+var year = 2001;
 
 var options = {
 	ranking: rank[0],
@@ -20,7 +20,7 @@ var options = {
 
 generateResults(options)
 .then(function(results){
-	var missing = missingTeams(year, results);
+	var missing = removeTeamsAndSort(year, results);
 	console.log('missing', missing);
 })
 .catch(function(err){
