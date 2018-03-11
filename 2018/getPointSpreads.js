@@ -2,13 +2,13 @@ const got = require('got');
 const cheerio = require('cheerio');
 const fs = require('fs');
 
-module.exports = async function getPointSpreads(team, month) {
+module.exports = async function getPointSpreads(team, value, month, done) {
     try {
       const response = await got.post('https://www.oddsshark.com/stats/dbresults/basketball/ncaab', {
         form: true,
         body: {
-          'selected-values': `H2H|15283|0|30|${month}|REG/PST|ANY|ANY`,
-          'honeypot-time-stamp': 1520776697,
+          'selected-values': `H2H|${value}|0|30|${month}|REG/PST|ANY|ANY`,
+          'honeypot-time-stamp': 1520801910,
           'team-search': team,
           'opponent-search': 'opponent-search',
           'number-games': 'on',
@@ -36,7 +36,10 @@ module.exports = async function getPointSpreads(team, month) {
         return acc;
       }, '');
 
-      fs.writeFileSync(`./data/spread${team}_${month}`, resultsCSV);
+      fs.writeFile(`./data2/spread_${team}_${month}.csv`, resultsCSV, (err) => {
+        if (err) console.log(err);
+        done();
+      });
     } catch (error) {
       console.log(error);
     }
