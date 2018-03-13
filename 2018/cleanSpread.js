@@ -33,7 +33,7 @@ function csvIFY(arr) {
 
 function runCleaning() {
   const files = fs.readdirSync('./data');
-  //const files = ['spread_Akron_1.csv', 'spread_Akron_2.csv','spread_Akron_3.csv', 'spread_Akron_4.csv'];
+  // const files = ['spread_Alabama_1.csv', 'spread_Akron_4.csv'];
   let currentTeam = ''
   const columnTitles = ['Date', 'Away', 'Score', 'Home', 'Score', 'Result', 'Home Spread', 'ATS', 'Total', 'OU'];
   let pastData = [columnTitles];
