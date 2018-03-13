@@ -20,11 +20,11 @@ Illinois,113.3,93.1
 West Virginia,114.9,94.8
 Arizona,117.4,97.8
 Cincinnati,111.1,91.7
-Utah St. 2,111.2,91.8
-Belmont 3,112.6,94.1
+Utah St.,111.2,91.8
+Belmont,112.6,94.1
 George Mason,114.1,95.8
-Clemson 2,109.6,91.5
-Marquette 1,115.5,97.3
+Clemson,109.6,91.5
+Marquette,115.5,97.3
 Wichita St.,113.9,95.9
 Villanova,114.9,97.0
 UNLV,110.6,92.9
@@ -33,37 +33,37 @@ Georgetown,114.2,96.6
 Kansas St.,111.1,93.6
 Vanderbilt,116.6,99.2
 Temple,110.5,93.7
-Florida St. 0,104.5,87.7
+Florida St.,104.5,87.7
 Butler,112.3,95.9
-Gonzaga 1,112.1,95.6
+Gonzaga,112.1,95.6
 Xavier,112.8,96.8
-Richmond 2,112.6,96.5
+Richmond,112.6,96.5
 Virginia Tech,109.7,93.7
 St. John's,111.2,95.3
-Missouri 1,113.4,97.8
+Missouri,113.4,97.8
 Saint Mary's,117.2,101.7
 Maryland,109.7,94.4
-Michigan St. 0,109.5,94.4
-Penn St. 0,113.1,98.3
+Michigan St.,109.5,94.4
+Penn St.,113.1,98.3
 New Mexico,111.9,97.2
 Old Dominion,110.0,95.4
 Texas A&M,110.0,95.4
 Northwestern,116.8,102.7
 Alabama,104.6,90.9
 UCLA,108.7,95.1
-VCU 1,112.0,98.5
+VCU,112.0,98.5
 Colorado,117.7,104.3
 Duquesne,108.0,94.7
-Oakland 3,118.6,105.3
-USC 1,107.9,94.6
+Oakland,118.6,105.3
+USC,107.9,94.6
 Minnesota,110.5,97.4
 Seton Hall,104.4,91.5
 Washington St.,108.1,95.3
 Miami FL,112.8,100.2
 Tennessee,108.0,95.6
-Georgia 0,108.2,95.9
+Georgia,108.2,95.9
 Nebraska,104.9,93.1
-UAB 2,108.8,97.2
+UAB,108.8,97.2
 Iona,113.6,102.0
 Boston College,116.8,105.5
 Cleveland St.,109.1,98.0
@@ -77,24 +77,24 @@ California,109.9,99.8
 Mississippi,113.0,103.1
 Colorado St.,108.6,99.1
 Rutgers,108.6,99.1
-Princeton 3,107.2,98.1
+Princeton,107.2,98.1
 Baylor,107.1,98.1
 Iowa St.,108.1,99.4
 Indiana,110.3,101.7
 Boise St.,108.2,100.0
-Wofford 4,112.3,104.2
+Wofford,112.3,104.2
 Marshall,108.6,100.6
 Providence,110.1,102.8
 North Carolina St.,109.9,102.7
 Iowa,103.9,96.8
-Morehead St. 3,105.6,98.6
-Memphis 2,104.5,97.6
+Morehead St.,105.6,98.6
+Memphis,104.5,97.6
 Tulsa,107.1,100.2
 Oregon,106.6,99.7
 Drexel,99.7,92.9
 Long Beach St.,106.7,100.1
 Valparaiso,106.4,99.8
-Bucknell 4,105.8,99.2
+Bucknell,105.8,99.2
 Dayton,104.8,98.3
 Creighton,109.9,103.5
 Kent St.,105.7,99.5
@@ -106,8 +106,8 @@ Fairfield,98.7,92.8
 UCF,105.7,99.9
 James Madison,108.3,102.6
 Northern Iowa,109.0,103.3
-Indiana St. 4,102.8,97.4
-LIU Brooklyn 5,109.6,104.2
+Indiana St.,102.8,97.4
+LIU Brooklyn,109.6,104.2
 South Dakota St.,115.9,110.5
 Wright St.,105.0,99.8
 East Tennessee St.,104.1,98.9
@@ -116,8 +116,8 @@ Montana,101.8,96.8
 Buffalo,104.0,99.1
 Santa Clara,107.9,103.3
 Coastal Carolina,104.9,100.4
-Akron 5,103.7,99.6
-Northern Colorado 5,106.3,102.2
+Akron,103.7,99.6
+Northern Colorado,106.3,102.2
 Rhode Island,103.5,99.5
 Texas Tech,107.2,103.4
 IUPUI,111.5,107.7
@@ -130,12 +130,12 @@ Vermont,102.4,99.1
 South Florida,103.7,100.4
 South Carolina,101.2,98.0
 Detroit,107.0,103.8
-UC Santa Barbara 5,103.7,100.5
+UC Santa Barbara,103.7,100.5
 Mississippi St.,107.5,104.4
 Murray St.,105.0,102.0
 Hofstra,108.9,106.1
 Loyola Chicago,105.9,103.1
-Saint Peter's 4,95.2,92.5
+Saint Peter's,95.2,92.5
 Milwaukee,104.8,102.1
 Arizona St.,104.0,101.3
 Austin Peay,103.6,100.9
@@ -148,7 +148,7 @@ Davidson,105.6,103.4
 Pacific,105.6,103.6
 San Francisco,102.9,100.9
 Ohio,107.4,105.5
-UNC Asheville 6,101.9,100.0
+UNC Asheville,101.9,100.0
 St. Bonaventure,106.6,104.7
 Robert Morris,103.2,101.4
 Lipscomb,106.8,105.3
@@ -168,7 +168,7 @@ Western Michigan,104.0,104.1
 Cal Poly,97.9,98.0
 Evansville,101.9,102.1
 Weber St.,104.1,104.4
-Boston University 6,103.4,103.9
+Boston University,103.4,103.9
 TCU,102.4,102.9
 La Salle,106.7,107.3
 American,104.1,104.7
@@ -206,14 +206,14 @@ UNC Wilmington,102.0,105.9
 St. Francis NY,98.9,102.7
 McNeese St.,105.5,109.4
 Charlotte,101.5,105.5
-Hampton 6,94.4,98.7
+Hampton,94.4,98.7
 Stephen F. Austin,96.6,100.9
 Tennessee Tech,100.9,105.2
 Charleston Southern,102.9,107.2
 Appalachian St.,104.7,109.0
 Southern Illinois,97.0,101.4
 Columbia,101.3,105.8
-Arkansas Little Rock 6,101.1,105.6
+Arkansas Little Rock,101.1,105.6
 Western Kentucky,100.5,105.1
 Georgia St.,94.9,99.5
 UC Irvine,102.6,107.2
@@ -225,7 +225,7 @@ Cal St. Northridge,100.6,105.7
 Pepperdine,104.6,109.7
 Lafayette,103.0,108.2
 William & Mary,103.0,108.3
-UTSA 6,101.8,107.1
+UTSA,101.8,107.1
 Holy Cross,101.6,106.9
 Wyoming,98.5,103.9
 Wagner,100.4,105.9
@@ -301,7 +301,7 @@ North Dakota,92.7,105.5
 Stetson,96.8,109.7
 Niagara,92.2,105.2
 Idaho St.,98.4,111.4
-Alabama St. 6,92.8,106.0
+Alabama St.,92.8,106.0
 Eastern Illinois,93.1,106.4
 Bryant,100.5,114.3
 Delaware St.,99.1,113.1

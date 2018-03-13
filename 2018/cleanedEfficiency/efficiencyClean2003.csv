@@ -22,21 +22,21 @@ Xavier,113.8,94.0
 Wake Forest,114.5,94.6
 Connecticut,111.6,92.0
 LSU,111.0,92.8
-BYU 2,109.4,91.7
+BYU,109.4,91.7
 Oklahoma St.,105.9,88.2
 Creighton,112.4,94.9
 Purdue,107.0,89.6
 Missouri,111.5,94.2
 Memphis,110.9,94.1
-Arizona St. 0,113.9,97.4
-Butler 2,115.4,99.3
+Arizona St.,113.9,97.4
+Butler,115.4,99.3
 Texas Tech,109.3,93.4
 Gonzaga,113.2,97.7
-Colorado 0,109.1,93.8
+Colorado,109.1,93.8
 Georgetown,107.1,92.2
 Cincinnati,105.0,90.3
-UNC Wilmington 1,109.5,94.9
-Alabama 0,110.3,95.7
+UNC Wilmington,109.5,94.9
+Alabama,110.3,95.7
 Stanford,109.8,95.2
 Dayton,116.4,101.9
 Indiana,113.4,98.9
@@ -44,17 +44,17 @@ Oregon,111.4,97.1
 Georgia Tech,109.1,94.8
 Utah,106.6,92.6
 Providence,108.0,94.1
-Auburn 0,107.7,94.1
+Auburn,107.7,94.1
 California,109.9,96.3
-Penn 1,110.3,96.9
+Penn,110.3,96.9
 Boston College,117.7,104.4
 North Carolina St.,111.2,98.1
-Tulsa 3,107.9,94.9
-Milwaukee 2,109.0,96.0
+Tulsa,107.9,94.9
+Milwaukee,109.0,96.0
 Seton Hall,104.6,92.3
 North Carolina,107.9,95.8
-Southern Illinois 1,110.3,98.6
-Western Kentucky 3,108.0,96.3
+Southern Illinois,110.3,98.6
+Western Kentucky,108.0,96.3
 Villanova,106.6,95.4
 Tennessee,108.0,97.0
 Mississippi,111.2,100.3
@@ -64,21 +64,21 @@ Illinois Chicago,110.5,99.9
 Detroit,109.6,99.0
 Iowa St.,106.3,95.7
 Louisiana Lafayette,107.9,97.4
-Holy Cross 4,105.5,95.1
+Holy Cross,105.5,95.1
 St. John's,105.4,95.3
-Manhattan 4,105.5,95.4
+Manhattan,105.5,95.4
 DePaul,105.1,95.1
-Central Michigan 1,109.5,99.4
+Central Michigan,109.5,99.4
 UNLV,108.1,98.2
 Minnesota,107.4,97.7
 UAB,105.2,95.8
 Temple,108.0,98.6
 Ohio St.,103.2,94.3
-Weber St. 2,111.4,102.5
+Weber St.,111.4,102.5
 Florida St.,100.9,92.0
 Iowa,106.4,97.9
 Saint Louis,104.1,95.8
-San Diego 3,104.7,96.4
+San Diego,104.7,96.4
 South Carolina,103.1,94.8
 Virginia,108.8,100.6
 Nevada,108.0,99.9
@@ -86,7 +86,7 @@ St. Bonaventure,112.8,104.8
 Southwest Missouri St.,100.6,92.5
 Western Michigan,101.7,94.0
 New Mexico St.,107.7,100.2
-Utah St. 5,107.1,99.7
+Utah St.,107.1,99.7
 Texas A&M,104.4,97.4
 Vanderbilt,103.7,96.9
 USC,105.2,98.4
@@ -97,12 +97,12 @@ UC Santa Barbara,104.2,97.7
 Wyoming,108.5,102.2
 Richmond,101.4,95.2
 Fresno St.,105.2,98.9
-Troy St. 4,106.9,100.8
+Troy St.,106.9,100.8
 Miami FL,103.3,97.2
 Rutgers,100.9,94.9
 Baylor,106.6,100.7
 Charlotte,104.5,98.5
-Colorado St. 4,110.6,104.6
+Colorado St.,110.6,104.6
 Clemson,107.3,101.6
 Murray St.,107.3,101.8
 UCLA,107.2,101.7
@@ -133,7 +133,7 @@ Wichita St.,107.7,104.6
 Toledo,103.6,100.6
 Princeton,109.2,106.2
 Arkansas,98.0,95.1
-Austin Peay 3,100.7,98.0
+Austin Peay,100.7,98.0
 Denver,102.4,99.8
 Northern Illinois,104.6,102.1
 Nebraska,97.4,94.9
@@ -145,21 +145,21 @@ Davidson,103.2,101.0
 Stephen F. Austin,105.6,103.5
 Bradley,103.1,101.2
 American,103.6,101.6
-East Tennessee St. 5,101.3,99.6
+East Tennessee St.,101.3,99.6
 Pepperdine,110.2,108.5
 Arkansas Little Rock,102.3,100.7
-Vermont 6,101.1,99.5
+Vermont,101.1,99.5
 Morehead St.,109.6,108.1
 Air Force,105.2,104.0
 Oral Roberts,104.6,103.4
 Fairfield,99.2,98.2
 Yale,100.1,99.2
 South Alabama,105.4,104.6
-Sam Houston St. 5,101.5,100.6
+Sam Houston St.,101.5,100.6
 Brown,105.6,104.8
 Iona,102.2,101.7
 Arkansas St.,107.7,107.2
-IUPUI 6,102.9,102.5
+IUPUI,102.9,102.5
 Old Dominion,99.2,98.9
 La Salle,102.4,102.1
 East Carolina,99.3,99.1
@@ -177,7 +177,7 @@ Mercer,106.4,107.3
 Pacific,99.9,100.8
 Niagara,109.5,110.4
 Akron,110.0,110.9
-Wagner 5,104.7,105.9
+Wagner,104.7,105.9
 Eastern Illinois,106.8,108.1
 Cal Poly,98.4,99.7
 Evansville,105.9,107.5
@@ -242,7 +242,7 @@ Cleveland St.,97.7,105.8
 Hampton,94.8,102.9
 Monmouth,91.9,100.1
 Lamar,92.7,101.3
-South Carolina St. 6,96.4,105.0
+South Carolina St.,96.4,105.0
 Centenary,103.1,111.7
 Sacramento St.,94.1,103.0
 Lafayette,101.3,110.3
@@ -258,7 +258,7 @@ St. Francis PA,94.3,104.1
 Alabama St.,90.9,100.9
 Fordham,97.2,107.4
 Buffalo,95.4,105.8
-Texas Southern 6,98.3,108.7
+Texas Southern,98.3,108.7
 Coastal Carolina,98.4,108.8
 Southeastern Louisiana,95.7,106.2
 Jacksonville,93.4,104.0
@@ -281,7 +281,7 @@ Fairleigh Dickinson,97.2,109.0
 San Jose St.,96.1,107.9
 Western Carolina,98.8,110.7
 UTSA,93.8,105.8
-UNC Asheville 6,101.2,113.5
+UNC Asheville,101.2,113.5
 Dartmouth,95.6,108.1
 Robert Morris,103.6,116.3
 LIU Brooklyn,97.8,110.7

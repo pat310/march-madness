@@ -1,5 +1,6 @@
 const fs = require('fs');
 const years = Array(17).fill(0).map((_, i) => i + 2002);
+//const years = [2018];
 
 function cleanFile(year) {
   const results = fs.readFileSync(`./data/efficiency${year}.csv`, 'utf8');
@@ -10,7 +11,7 @@ function cleanFile(year) {
   });
 
   const formattedArrResults = arrayResults.map((row) => {
-    const firstCol = row[0].replace(/\d/, '').trim();
+    const firstCol = row[0].replace(/\d+/, '').trim();
 
     return [firstCol].concat(row.slice(1));
   });
@@ -21,7 +22,7 @@ function cleanFile(year) {
     return acc;
   }, '');
 
-  fs.writeFileSync(`./data/efficiencyClean${year}.csv`, newCSV);
+  fs.writeFileSync(`./cleanedEfficiency/efficiencyClean${year}.csv`, newCSV);
 }
 
 (function recurse(index) {

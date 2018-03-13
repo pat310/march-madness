@@ -25,9 +25,9 @@ Clemson,116.4,96.7
 Wake Forest,111.6,92.7
 Illinois,106.8,88.1
 Oklahoma St.,116.4,98.1
-USC 0,110.0,91.8
+USC,110.0,91.8
 Utah,110.8,92.9
-Wisconsin 2,113.3,95.7
+Wisconsin,113.3,95.7
 California,116.8,99.4
 Georgetown,111.1,94.2
 Tennessee,115.1,98.7
@@ -35,39 +35,39 @@ Baylor,116.5,100.1
 Ohio St.,113.3,96.9
 Florida,115.1,98.9
 San Diego St.,109.4,93.3
-Arizona 2,117.7,101.8
+Arizona,117.7,101.8
 Butler,110.3,94.5
 Florida St.,105.9,90.1
-Minnesota 0,108.1,92.6
+Minnesota,108.1,92.6
 Notre Dame,115.0,99.6
 Miami FL,111.2,95.9
 New Mexico,112.2,96.9
-Utah St. 1,116.7,101.6
+Utah St.,116.7,101.6
 Texas A&M,113.1,98.1
 LSU,111.5,96.6
-Michigan 0,112.2,97.5
+Michigan,112.2,97.5
 Kentucky,107.8,93.2
 Washington St.,105.0,90.4
-Temple 1,109.9,95.5
+Temple,109.9,95.5
 Kansas St.,109.4,95.2
 Stanford,112.5,98.3
 UAB,109.4,95.7
-VCU 1,110.1,96.4
-Maryland 0,110.0,96.4
+VCU,110.1,96.4
+Maryland,110.0,96.4
 Saint Mary's,110.6,97.2
 Penn St.,111.8,98.9
 Tulsa,106.2,93.4
 Auburn,106.8,94.3
 Illinois St.,109.0,96.5
-North Dakota St. 4,114.3,102.0
+North Dakota St.,114.3,102.0
 Rhode Island,113.7,101.5
 Nebraska,103.5,91.3
 Davidson,105.1,93.1
 Northwestern,111.7,99.7
-Cleveland St. 3,105.3,93.3
+Cleveland St.,105.3,93.3
 Siena,110.3,98.4
 Creighton,111.9,100.1
-Mississippi St. 3,107.8,96.2
+Mississippi St.,107.8,96.2
 Houston,109.2,97.7
 South Carolina,107.3,95.9
 Virginia Tech,110.9,99.5
@@ -76,47 +76,47 @@ Boston College,113.2,102.0
 Niagara,109.2,98.6
 Seton Hall,110.7,100.4
 Providence,111.0,100.7
-Dayton 1,103.3,93.0
+Dayton,103.3,93.0
 Green Bay,112.9,102.7
 Vanderbilt,107.6,97.6
 North Carolina St.,113.5,103.6
 UTEP,108.2,98.4
-Northern Iowa 2,110.6,100.9
+Northern Iowa,110.6,100.9
 Vermont,108.7,99.6
 Duquesne,115.2,106.2
 Cincinnati,108.7,100.0
 Iowa,108.6,100.2
-Western Kentucky 2,111.1,103.0
+Western Kentucky,111.1,103.0
 George Mason,104.6,96.6
 Oral Roberts,103.0,95.2
 Miami OH,103.5,96.2
 Mississippi,111.4,104.2
 Old Dominion,105.0,98.0
 Texas Tech,109.3,102.3
-Akron 3,102.9,96.0
+Akron,102.9,96.0
 Wright St.,100.7,93.8
 Northeastern,106.4,99.6
 Georgia Tech,100.4,93.7
 Saint Joseph's,105.7,99.0
 Alabama,105.9,99.3
-Stephen F. Austin 4,97.0,90.4
+Stephen F. Austin,97.0,90.4
 Oakland,114.2,107.8
 Nevada,105.8,99.8
 Virginia,103.5,97.8
-East Tennessee St. 6,106.4,100.7
+East Tennessee St.,106.4,100.7
 La Salle,105.9,100.5
-Cornell 4,108.5,103.3
-Cal St. Northridge 5,102.2,97.0
+Cornell,108.5,103.3
+Cal St. Northridge,102.2,97.0
 Portland,107.3,102.3
 Pacific,108.8,103.9
 Oregon St.,106.1,101.2
-American 4,105.3,100.6
+American,105.3,100.6
 Iowa St.,102.5,97.9
 Richmond,106.8,102.4
 Belmont,106.6,102.4
 Weber St.,103.2,99.0
 Tennessee Martin,108.5,104.3
-Portland St. 3,109.2,105.1
+Portland St.,109.2,105.1
 Buffalo,102.6,98.6
 Bradley,104.9,101.0
 St. John's,102.7,98.8
@@ -144,18 +144,18 @@ Bowling Green,102.5,100.7
 Saint Louis,101.8,100.1
 Southern Miss,106.7,105.1
 Mount St. Mary's,101.4,99.9
-Robert Morris 5,102.0,100.6
+Robert Morris,102.0,100.6
 College of Charleston,110.0,108.6
 Arkansas Little Rock,99.9,98.7
 Rutgers,98.6,97.4
-Morgan St. 5,100.1,99.1
+Morgan St.,100.1,99.1
 Boise St.,103.1,102.1
 North Texas,109.0,108.0
 Milwaukee,104.6,103.7
 Marshall,107.2,106.3
 Eastern Kentucky,112.6,111.7
 Southern Illinois,102.2,101.4
-Morehead St. 6,102.0,101.3
+Morehead St.,102.0,101.3
 Lipscomb,105.5,105.1
 Oregon,104.2,103.8
 Idaho,104.4,104.1
@@ -174,8 +174,8 @@ Montana,104.1,104.8
 Fairfield,103.2,104.0
 Tulane,98.6,99.4
 IUPUI,103.8,104.6
-Radford 6,101.2,102.1
-Binghamton 5,102.3,103.3
+Radford,101.2,102.1
+Binghamton,102.3,103.3
 Colorado,101.2,102.2
 Rider,105.1,106.3
 South Alabama,102.8,104.1
@@ -198,7 +198,7 @@ Liberty,105.2,108.0
 Missouri St.,99.4,102.3
 Georgia,95.4,98.3
 Southeastern Louisiana,100.5,103.5
-Alabama St. 6,100.7,103.6
+Alabama St.,100.7,103.6
 Cal St. Fullerton,105.6,108.8
 Northern Colorado,103.3,106.7
 Indiana St.,102.6,105.9
@@ -211,7 +211,7 @@ Indiana,99.1,103.0
 Lamar,100.4,104.4
 Delaware,102.7,106.6
 South Dakota St.,104.9,108.9
-Chattanooga 6,104.3,108.4
+Chattanooga,104.3,108.4
 Hawaii,97.2,101.3
 East Carolina,110.4,114.6
 IPFW,102.5,106.8

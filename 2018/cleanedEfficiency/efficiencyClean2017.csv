@@ -6,7 +6,7 @@ Kentucky,119.1,91.4
 Florida,116.9,89.5
 Kansas,121.9,94.5
 West Virginia,116.5,89.4
-Wichita St. 0,118.7,92.6
+Wichita St.,118.7,92.6
 Louisville,117.2,91.7
 Oregon,118.2,93.2
 SMU,119.8,95.0
@@ -20,7 +20,7 @@ Arizona,118.4,95.1
 Purdue,117.0,93.9
 Michigan,122.3,99.2
 Wisconsin,115.1,92.1
-Oklahoma St. 0,126.0,103.5
+Oklahoma St.,126.0,103.5
 Cincinnati,114.9,92.8
 South Carolina,108.9,88.1
 Butler,117.7,97.0
@@ -28,44 +28,44 @@ Florida St.,115.5,95.5
 Notre Dame,118.1,98.4
 Creighton,115.3,96.5
 TCU,114.5,97.0
-Kansas St. 1,113.0,95.6
-Xavier 1,115.7,99.0
-Marquette 0,120.8,104.2
+Kansas St.,113.0,95.6
+Xavier,115.7,99.0
+Marquette,120.8,104.2
 Vanderbilt,112.4,95.9
-Rhode Island 1,111.5,95.2
+Rhode Island,111.5,95.2
 Arkansas,116.1,99.8
-Wake Forest 1,120.9,104.7
+Wake Forest,120.9,104.7
 Minnesota,109.7,93.7
 Northwestern,111.3,95.5
 Dayton,111.9,96.3
 Michigan St.,111.4,95.9
 Texas Tech,112.6,97.5
 Miami FL,109.9,94.9
-Middle Tennessee 2,112.2,97.2
+Middle Tennessee,112.2,97.2
 Indiana,116.1,101.6
 Clemson,114.9,100.5
 Maryland,113.1,98.7
 Utah,113.5,99.3
-VCU 0,110.1,96.0
+VCU,110.1,96.0
 Illinois St.,107.6,93.6
 Virginia Tech,117.3,103.5
 Seton Hall,109.4,95.8
 Houston,113.5,99.9
-USC 1,114.2,100.7
-Nevada 2,114.6,101.3
+USC,114.2,100.7
+Nevada,114.6,101.3
 Syracuse,115.7,102.3
 Alabama,105.3,92.2
 Tennessee,110.1,97.5
-Princeton 2,109.0,96.4
-UNC Wilmington 2,118.0,105.5
-Providence 1,108.5,96.0
+Princeton,109.0,96.4
+UNC Wilmington,118.0,105.5
+Providence,108.5,96.0
 Georgia,108.7,96.3
 California,104.9,92.7
-Vermont 3,111.1,99.4
+Vermont,111.1,99.4
 Texas A&M,108.7,97.3
 Oklahoma,107.4,95.9
 Illinois,107.2,95.8
-East Tennessee St. 3,108.0,96.9
+East Tennessee St.,108.0,96.9
 UCF,104.2,93.3
 Georgetown,108.4,97.7
 Texas,104.2,93.7
@@ -74,7 +74,7 @@ Colorado,112.6,102.3
 Ohio St.,111.2,101.0
 Mississippi,111.1,100.9
 UT Arlington,110.6,100.8
-Bucknell 3,109.7,100.3
+Bucknell,109.7,100.3
 Georgia Tech,100.0,91.0
 San Diego St.,104.0,95.1
 Pittsburgh,112.4,103.7
@@ -82,7 +82,7 @@ BYU,109.1,100.5
 Monmouth,109.1,100.5
 Auburn,111.9,103.3
 Belmont,110.8,102.7
-New Mexico St. 4,110.5,102.6
+New Mexico St.,110.5,102.6
 Davidson,108.4,100.7
 Colorado St.,108.5,100.9
 Penn St.,104.5,97.2
@@ -106,16 +106,16 @@ Valparaiso,106.3,100.5
 Ohio,105.6,99.9
 Furman,107.0,101.7
 Nebraska,105.0,99.8
-Florida Gulf Coast 4,109.4,104.4
+Florida Gulf Coast,109.4,104.4
 North Carolina St.,112.6,107.6
 UNC Asheville,107.4,102.5
 San Francisco,102.8,98.0
 Harvard,106.7,101.9
-Winthrop 3,106.1,101.6
+Winthrop,106.1,101.6
 Chattanooga,106.6,102.3
 Lehigh,107.5,103.3
 Towson,105.5,101.2
-Iona 4,110.8,106.6
+Iona,110.8,106.6
 Temple,108.3,104.3
 New Mexico,106.5,103.1
 Old Dominion,100.7,97.2
@@ -135,11 +135,11 @@ William & Mary,111.9,109.7
 Missouri St.,108.3,106.0
 Rutgers,101.5,99.3
 Elon,104.4,102.2
-Troy 5,109.7,107.6
-Northern Kentucky 5,106.8,104.9
+Troy,109.7,107.6
+Northern Kentucky,106.8,104.9
 UC Irvine,101.8,100.0
 La Salle,110.6,108.7
-Kent St. 4,104.9,103.3
+Kent St.,104.9,103.3
 Wofford,109.9,108.4
 South Dakota,104.2,102.7
 Tulsa,104.3,102.9
@@ -155,18 +155,18 @@ Fort Wayne,108.8,108.0
 Evansville,104.1,103.2
 Rice,107.8,107.1
 Missouri,101.5,100.9
-Jacksonville St. 5,105.8,105.2
+Jacksonville St.,105.8,105.2
 Massachusetts,100.6,100.0
 Northeastern,107.0,106.4
 Tennessee St.,100.3,99.7
-North Carolina Central 6,102.2,101.9
+North Carolina Central,102.2,101.9
 Western Michigan,107.1,106.8
 Washington,107.7,107.4
 Wright St.,106.5,106.2
 Lipscomb,107.3,107.0
 Samford,107.8,107.5
 North Dakota St.,104.6,104.4
-North Dakota 5,103.6,103.5
+North Dakota,103.6,103.5
 Northern Iowa,97.6,97.6
 Siena,106.2,106.3
 Penn,102.6,102.8
@@ -176,14 +176,14 @@ Texas St.,101.3,101.7
 Loyola Marymount,103.0,103.4
 Nebraska Omaha,108.6,109.0
 Texas A&M Corpus Chris,102.8,103.3
-New Orleans 6,101.3,101.8
+New Orleans,101.3,101.8
 Weber St.,108.5,109.0
 Ball St.,104.7,105.3
 Gardner Webb,102.7,103.5
 New Hampshire,102.3,103.2
 DePaul,103.5,104.5
 Saint Joseph's,102.2,103.3
-South Dakota St. 6,110.2,111.4
+South Dakota St.,110.2,111.4
 Eastern Washington,109.6,110.8
 Canisius,108.7,109.9
 Hofstra,111.1,112.4
@@ -207,16 +207,16 @@ Northern Illinois,98.9,102.4
 Navy,99.9,103.4
 Coastal Carolina,101.8,105.4
 Rider,100.9,104.6
-Mount St. Mary's 6,99.5,103.4
+Mount St. Mary's,99.5,103.4
 Tennessee Martin,106.7,110.6
 Liberty,99.9,103.8
-Texas Southern 6,103.5,107.5
+Texas Southern,103.5,107.5
 Stony Brook,101.8,105.9
 San Jose St.,100.4,104.5
 Holy Cross,98.7,102.9
 Idaho,101.8,106.0
 Bradley,98.4,102.7
-UC Davis 6,97.8,102.2
+UC Davis,97.8,102.2
 UMKC,103.0,107.4
 Eastern Illinois,100.1,105.0
 Houston Baptist,105.2,110.2

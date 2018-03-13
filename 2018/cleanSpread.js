@@ -11,12 +11,13 @@ function cleanFile(fileName) {
   const arrayResults = rows.reduce((acc, row) => {
     if (row.length === 0) return acc;
     const newArr = row.split(',');
-    const year = newArr[1].trim();
+    let year = newArr[1].trim();
     const fallMonth = /(Nov|Dec)/.test(newArr[0]);
+    if (fallMonth) year = parseInt(year) + 1 + '';
 
-    const newRow = [newArr[0] + ' ' + year].concat(newArr.slice(2));
+    const newRow = [year].concat(newArr.slice(2));
 
-    if (year === '2018' || (year === '2017' && fallMonth)) acc.current = acc.current.concat([newRow]);
+    if (year === '2018') acc.current = acc.current.concat([newRow]);
     else acc.past = acc.past.concat([newRow]);
 
     return acc;
@@ -36,7 +37,7 @@ function runCleaning() {
   const files = fs.readdirSync('./data');
   // const files = ['spread_Alabama_1.csv', 'spread_Akron_4.csv'];
   let currentTeam = ''
-  const columnTitles = ['Date', 'Away', 'Score', 'Home', 'Score', 'Result', 'Home Spread', 'ATS', 'Total', 'OU'];
+  const columnTitles = ['Year', 'Away', 'Score', 'Home', 'Score', 'Result', 'Home Spread', 'ATS', 'Total', 'OU'];
   let pastData = [columnTitles];
   let currentData = [columnTitles];
 
