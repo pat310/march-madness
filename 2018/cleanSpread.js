@@ -2,20 +2,21 @@ const fs = require('fs');
 
 function cleanFile(fileName) {
   const results = fs.readFileSync(`./data/${fileName}`, 'utf8');
-  const rows = results.split('\n');
-  if (rows.length <= 2) {
-    console.log('fileName ', fileName, ' empty? ', rows);
+  if (/No results\./.test(results)) {
+    console.log('fileName ', fileName, ' empty? ', results);
     return {past: [], current: []};
   }
+  const rows = results.split('\n').filter((row) => row !== '');
 
   const arrayResults = rows.reduce((acc, row) => {
     if (row.length === 0) return acc;
     const newArr = row.split(',');
     const year = newArr[1].trim();
+    const fallMonth = /(Nov|Dec)/.test(newArr[0]);
 
     const newRow = [newArr[0] + ' ' + year].concat(newArr.slice(2));
 
-    if (year === '2018') acc.current = acc.current.concat([newRow]);
+    if (year === '2018' || (year === '2017' && fallMonth)) acc.current = acc.current.concat([newRow]);
     else acc.past = acc.past.concat([newRow]);
 
     return acc;
