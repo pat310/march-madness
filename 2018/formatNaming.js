@@ -31,12 +31,14 @@ function createNameMap() {
     acc[row[0]] = row[1];
     return acc;
   }, {});
-  //
-  //const newFiles = files.map((file) => {
-  //  return replaceNamesAndJoin(file, abbreviationMap, teamSpellingMap, efficiencyData);
-  //});
 
-  console.log(replaceNamesAndJoin('Virginia Tech_current.csv', abbreviationMap, teamSpellingMap, efficiencyData));
+  files.forEach((file) => {
+    const finalFile = replaceNamesAndJoin(file, abbreviationMap, teamSpellingMap, efficiencyData);
+
+    fs.writeFileSync(`./combinedData/${file}`, finalFile);
+  });
+
+  //console.log(replaceNamesAndJoin('Virginia Tech_current.csv', abbreviationMap, teamSpellingMap, efficiencyData));
 }
 
 function replaceNamesAndJoin(file, nameMap, spellingMap, efficiencyData) {
@@ -54,10 +56,10 @@ function replaceNamesAndJoin(file, nameMap, spellingMap, efficiencyData) {
     const name2 = nameMap[splitRow[3]] ? spellingMap[nameMap[splitRow[3]].toLowerCase()] : 'NaN';
     const name1EffIndex = efficiencyData[splitRow[0]] ? efficiencyData[splitRow[0]].findIndex((efficiencyRow) => {
       return spellingMap[efficiencyRow[0].toLowerCase()] === name1;
-    }) : 'NaN';
+    }) : -1;
     const name2EffIndex = efficiencyData[splitRow[0]] ? efficiencyData[splitRow[0]].findIndex((efficiencyRow) => {
       return spellingMap[efficiencyRow[0].toLowerCase()] === name2;
-    }) : 'NaN';
+    }) : -1;
 
     const newRow = [...splitRow];
 
@@ -104,7 +106,7 @@ function replaceNamesAndJoin(file, nameMap, spellingMap, efficiencyData) {
       col4 = row[11];
     }
     return [spread, col1, col2, col3, col4, row[5] === 'W' ? 1 : 0].join(',');
-  });
+  }).join('\n');
 }
 
 function getAbbrev(fileName) {
