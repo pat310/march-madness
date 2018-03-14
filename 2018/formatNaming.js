@@ -24,10 +24,6 @@ function createNameMap() {
     return acc;
   }, {});
 
-  //const newFiles = files.map((file) => {
-  //  return replaceNamesAndJoin(file, abbreviationMap, efficiencyData);
-  //});
-
   const teamSpellingCSV = fs.readFileSync('./TeamSpellings.csv', 'utf8');
   const teamSpellingMap = teamSpellingCSV.split('\r\n').reduce((acc, curr) => {
     const row = curr.split(',');
@@ -35,29 +31,33 @@ function createNameMap() {
     acc[row[0]] = row[1];
     return acc;
   }, {});
+  //
+  //const newFiles = files.map((file) => {
+  //  return replaceNamesAndJoin(file, abbreviationMap, teamSpellingMap, efficiencyData);
+  //});
 
-  console.log(replaceNamesAndJoin(files[0], abbreviationMap, teamSpellingMap, efficiencyData));
+  console.log(replaceNamesAndJoin('Virginia Tech_current.csv', abbreviationMap, teamSpellingMap, efficiencyData));
 }
 
 function replaceNamesAndJoin(file, nameMap, spellingMap, efficiencyData) {
   const fileContents = fs.readFileSync(`./cleanedSpread/${file}`, 'utf8');
   const rows = fileContents.split('\n');
   const headers = rows[0];
-  const additionalHeaders = headers + ',' + ['Oeff1', 'Deff1', 'Oeff2', 'Deff2'].join(',');
+  const additionalHeaders = headers.concat(['Oeff1', 'Deff1', 'Oeff2', 'Deff2']);
 
-  return rows.slice(1).reduce((acc, row) => {
+  const combinedRows = rows.slice(1).reduce((acc, row) => {
     const splitRow = row.split(',');
     if (splitRow.length === 1) return acc;
+    if (splitRow[6] === '0.0') return acc;
 
-    console.log(splitRow[1], nameMap[splitRow[1]]);
     const name1 = nameMap[splitRow[1]] ? spellingMap[nameMap[splitRow[1]].toLowerCase()] : 'NaN';
     const name2 = nameMap[splitRow[3]] ? spellingMap[nameMap[splitRow[3]].toLowerCase()] : 'NaN';
-    const name1EffIndex = efficiencyData[splitRow[0]].findIndex((efficiencyRow) => {
+    const name1EffIndex = efficiencyData[splitRow[0]] ? efficiencyData[splitRow[0]].findIndex((efficiencyRow) => {
       return spellingMap[efficiencyRow[0].toLowerCase()] === name1;
-    });
-    const name2EffIndex = efficiencyData[splitRow[0]].findIndex((efficiencyRow) => {
+    }) : 'NaN';
+    const name2EffIndex = efficiencyData[splitRow[0]] ? efficiencyData[splitRow[0]].findIndex((efficiencyRow) => {
       return spellingMap[efficiencyRow[0].toLowerCase()] === name2;
-    });
+    }) : 'NaN';
 
     const newRow = [...splitRow];
 
@@ -79,8 +79,32 @@ function replaceNamesAndJoin(file, nameMap, spellingMap, efficiencyData) {
       newRow.push(efficiencyData[splitRow[0]][name2EffIndex][2]);
     }
 
-    return acc.concat([newRow.join(',')]);
+    return acc.concat([newRow]);
   }, [additionalHeaders]);
+
+  const newHeaders = ['Spread', 'Oeff1', 'Deff1', 'Oeff2', 'Deff2', 'Result'];
+  const teamName = spellingMap[file.replace(/_.+/, '').toLowerCase()];
+
+  return combinedRows.map((row, index) => {
+    if (index === 0) return newHeaders.join(',');
+    let col2, col3, col4, col5, spread = row[6];
+
+    if (row[1] === teamName) {
+      col1 = row[10];
+      col2 = row[11];
+      col3 = row[12];
+      col4 = row[13];
+      origSpread = spread;
+      spread = origSpread.replace('-', '+');
+      spread = origSpread.replace('+', '-');
+    } else {
+      col1 = row[12];
+      col2 = row[13];
+      col3 = row[10];
+      col4 = row[11];
+    }
+    return [spread, col1, col2, col3, col4, row[5] === 'W' ? 1 : 0].join(',');
+  });
 }
 
 function getAbbrev(fileName) {
