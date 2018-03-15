@@ -98,8 +98,8 @@ function replaceNamesAndJoin(file, nameMap, spellingMap, efficiencyData) {
       col3 = row[12];
       col4 = row[13];
       origSpread = spread;
-      spread = origSpread.replace('-', '+');
-      spread = origSpread.replace('+', '-');
+      if (spread.match(/\+/)) spread = spread.replace('+', '-');
+      else spread = spread.replace('-', '+');
     } else {
       col0 = row[1];
       col1 = row[12];
