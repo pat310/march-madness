@@ -84,14 +84,15 @@ function replaceNamesAndJoin(file, nameMap, spellingMap, efficiencyData) {
     return acc.concat([newRow]);
   }, [additionalHeaders]);
 
-  const newHeaders = ['Spread', 'Oeff1', 'Deff1', 'Oeff2', 'Deff2', 'Result'];
+  const newHeaders = ['Team', 'Opponent', 'Spread', 'TeamOeff', 'TeamDeff', 'OppOeff2', 'OppDeff2', 'Result'];
   const teamName = spellingMap[file.replace(/_.+/, '').toLowerCase()];
 
   return combinedRows.map((row, index) => {
     if (index === 0) return newHeaders.join(',');
-    let col2, col3, col4, col5, spread = row[6];
+    let col0, col1, col2, col3, col4, col5, spread = row[6];
 
     if (row[1] === teamName) {
+      col0 = row[3];
       col1 = row[10];
       col2 = row[11];
       col3 = row[12];
@@ -100,12 +101,13 @@ function replaceNamesAndJoin(file, nameMap, spellingMap, efficiencyData) {
       spread = origSpread.replace('-', '+');
       spread = origSpread.replace('+', '-');
     } else {
+      col0 = row[1];
       col1 = row[12];
       col2 = row[13];
       col3 = row[10];
       col4 = row[11];
     }
-    return [spread, col1, col2, col3, col4, row[5] === 'W' ? 1 : 0].join(',');
+    return [teamName, col0, spread, col1, col2, col3, col4, row[5] === 'W' ? 1 : 0].join(',');
   }).join('\n');
 }
 

@@ -1,5 +1,5 @@
-Spread,Oeff1,Deff1,Oeff2,Deff2,Result
-+14.0,NaN,NaN,98.8,103.9,0
--5.0,NaN,NaN,89.6,109.4,1
--36.5,NaN,NaN,116.4,99.2,0
--11.5,NaN,NaN,95.7,108.8,0
+Team,Opponent,Spread,TeamOeff,TeamDeff,OppOeff2,OppDeff2,Result
+1271,1399,+14.0,NaN,NaN,98.8,103.9,0
+1271,1238,-5.0,NaN,NaN,89.6,109.4,1
+1271,1166,-36.5,NaN,NaN,116.4,99.2,0
+1271,1313,-11.5,NaN,NaN,95.7,108.8,0
