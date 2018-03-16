@@ -1,0 +1,2278 @@
+villanova,purdue,1
+villanova,texas tech,1
+villanova,wichita st,1
+villanova,west virginia,1
+villanova,florida,1
+villanova,arkansas,1
+villanova,virginia tech,1
+villanova,alabama,1
+villanova,butler,1
+villanova,st bonaventure,1
+villanova,ucla,1
+villanova,murray st,1
+villanova,marshall,1
+villanova,sf austin,1
+villanova,cal st. fullerton,1
+villanova,liu brooklyn,1
+villanova,radford,1
+villanova,kansas,1
+villanova,duke,0
+villanova,michigan st,1
+villanova,auburn,1
+villanova,clemson,1
+villanova,tcu,1
+villanova,rhode island,1
+villanova,seton hall,1
+villanova,n.c. state,1
+villanova,oklahoma,1
+villanova,arizona st,1
+villanova,syracuse,1
+villanova,new mexico st,1
+villanova,charleston,1
+villanova,bucknell,1
+villanova,iona,1
+villanova,penn,1
+villanova,virginia,1
+villanova,cincinnati,1
+villanova,tennessee,1
+villanova,arizona,1
+villanova,kentucky,1
+villanova,miami - florida,1
+villanova,nevada,1
+villanova,creighton,1
+villanova,kansas st,1
+villanova,texas,1
+villanova,loyola (il),1
+villanova,davidson,1
+villanova,buffalo,1
+villanova,wright st,1
+villanova,georgia st,1
+villanova,maryland-baltimore county,1
+villanova,xavier,1
+villanova,north carolina,1
+villanova,michigan,1
+villanova,gonzaga,1
+villanova,ohio st,1
+villanova,houston,1
+villanova,texas a&m,1
+villanova,missouri,1
+villanova,florida st,1
+villanova,providence,1
+villanova,san diego st,1
+villanova,s dakota st,1
+villanova,nc greensboro,1
+villanova,montana,1
+villanova,lipscomb,1
+villanova,n.c. central,1
+villanova,texas southern,1
+purdue,texas tech,0
+purdue,wichita st,1
+purdue,west virginia,1
+purdue,florida,0
+purdue,arkansas,1
+purdue,virginia tech,1
+purdue,alabama,1
+purdue,butler,1
+purdue,st bonaventure,0
+purdue,ucla,1
+purdue,murray st,1
+purdue,marshall,1
+purdue,sf austin,1
+purdue,cal st. fullerton,1
+purdue,liu brooklyn,1
+purdue,radford,1
+purdue,kansas,1
+purdue,duke,1
+purdue,michigan st,0
+purdue,auburn,1
+purdue,clemson,0
+purdue,tcu,1
+purdue,rhode island,1
+purdue,seton hall,1
+purdue,n.c. state,1
+purdue,oklahoma,1
+purdue,arizona st,1
+purdue,syracuse,1
+purdue,new mexico st,1
+purdue,charleston,1
+purdue,bucknell,1
+purdue,iona,1
+purdue,penn,1
+purdue,virginia,0
+purdue,cincinnati,1
+purdue,tennessee,1
+purdue,arizona,1
+purdue,kentucky,1
+purdue,miami - florida,1
+purdue,nevada,1
+purdue,creighton,1
+purdue,kansas st,1
+purdue,texas,1
+purdue,loyola (il),1
+purdue,davidson,1
+purdue,buffalo,1
+purdue,wright st,1
+purdue,georgia st,1
+purdue,maryland-baltimore county,1
+purdue,xavier,1
+purdue,north carolina,1
+purdue,michigan,1
+purdue,gonzaga,0
+purdue,ohio st,0
+purdue,houston,0
+purdue,texas a&m,1
+purdue,missouri,1
+purdue,florida st,1
+purdue,providence,1
+purdue,san diego st,1
+purdue,s dakota st,1
+purdue,nc greensboro,1
+purdue,montana,1
+purdue,lipscomb,1
+purdue,n.c. central,1
+purdue,texas southern,1
+texas tech,wichita st,1
+texas tech,west virginia,0
+texas tech,florida,1
+texas tech,arkansas,1
+texas tech,virginia tech,0
+texas tech,alabama,1
+texas tech,butler,0
+texas tech,st bonaventure,1
+texas tech,ucla,1
+texas tech,murray st,1
+texas tech,marshall,1
+texas tech,sf austin,1
+texas tech,cal st. fullerton,1
+texas tech,liu brooklyn,1
+texas tech,radford,1
+texas tech,kansas,1
+texas tech,duke,0
+texas tech,michigan st,0
+texas tech,auburn,0
+texas tech,clemson,0
+texas tech,tcu,1
+texas tech,rhode island,1
+texas tech,seton hall,1
+texas tech,n.c. state,1
+texas tech,oklahoma,1
+texas tech,arizona st,1
+texas tech,syracuse,0
+texas tech,new mexico st,1
+texas tech,charleston,1
+texas tech,bucknell,1
+texas tech,iona,1
+texas tech,penn,1
+texas tech,virginia,0
+texas tech,cincinnati,0
+texas tech,tennessee,0
+texas tech,arizona,1
+texas tech,kentucky,1
+texas tech,miami - florida,1
+texas tech,nevada,1
+texas tech,creighton,1
+texas tech,kansas st,1
+texas tech,texas,1
+texas tech,loyola (il),0
+texas tech,davidson,1
+texas tech,buffalo,1
+texas tech,wright st,1
+texas tech,georgia st,1
+texas tech,maryland-baltimore county,1
+texas tech,xavier,1
+texas tech,north carolina,1
+texas tech,michigan,1
+texas tech,gonzaga,0
+texas tech,ohio st,1
+texas tech,houston,1
+texas tech,texas a&m,1
+texas tech,missouri,1
+texas tech,florida st,0
+texas tech,providence,1
+texas tech,san diego st,1
+texas tech,s dakota st,1
+texas tech,nc greensboro,1
+texas tech,montana,1
+texas tech,lipscomb,1
+texas tech,n.c. central,1
+texas tech,texas southern,1
+wichita st,west virginia,0
+wichita st,florida,0
+wichita st,arkansas,0
+wichita st,virginia tech,0
+wichita st,alabama,1
+wichita st,butler,0
+wichita st,st bonaventure,1
+wichita st,ucla,0
+wichita st,murray st,1
+wichita st,marshall,1
+wichita st,sf austin,1
+wichita st,cal st. fullerton,1
+wichita st,liu brooklyn,1
+wichita st,radford,1
+wichita st,kansas,0
+wichita st,duke,1
+wichita st,michigan st,0
+wichita st,auburn,0
+wichita st,clemson,0
+wichita st,tcu,0
+wichita st,rhode island,0
+wichita st,seton hall,0
+wichita st,n.c. state,0
+wichita st,oklahoma,0
+wichita st,arizona st,1
+wichita st,syracuse,1
+wichita st,new mexico st,1
+wichita st,charleston,1
+wichita st,bucknell,1
+wichita st,iona,1
+wichita st,penn,1
+wichita st,virginia,0
+wichita st,cincinnati,1
+wichita st,tennessee,0
+wichita st,arizona,0
+wichita st,kentucky,0
+wichita st,miami - florida,0
+wichita st,nevada,0
+wichita st,creighton,0
+wichita st,kansas st,0
+wichita st,texas,1
+wichita st,loyola (il),1
+wichita st,davidson,0
+wichita st,buffalo,1
+wichita st,wright st,1
+wichita st,georgia st,1
+wichita st,maryland-baltimore county,1
+wichita st,xavier,0
+wichita st,north carolina,0
+wichita st,michigan,0
+wichita st,gonzaga,0
+wichita st,ohio st,0
+wichita st,houston,0
+wichita st,texas a&m,1
+wichita st,missouri,0
+wichita st,florida st,0
+wichita st,providence,1
+wichita st,san diego st,0
+wichita st,s dakota st,1
+wichita st,nc greensboro,1
+wichita st,montana,1
+wichita st,lipscomb,1
+wichita st,n.c. central,1
+wichita st,texas southern,1
+west virginia,florida,0
+west virginia,arkansas,1
+west virginia,virginia tech,1
+west virginia,alabama,0
+west virginia,butler,1
+west virginia,st bonaventure,1
+west virginia,ucla,1
+west virginia,murray st,1
+west virginia,marshall,1
+west virginia,sf austin,0
+west virginia,cal st. fullerton,1
+west virginia,liu brooklyn,1
+west virginia,radford,1
+west virginia,kansas,0
+west virginia,duke,0
+west virginia,michigan st,0
+west virginia,auburn,1
+west virginia,clemson,1
+west virginia,tcu,1
+west virginia,rhode island,1
+west virginia,seton hall,1
+west virginia,n.c. state,1
+west virginia,oklahoma,1
+west virginia,arizona st,1
+west virginia,syracuse,1
+west virginia,new mexico st,0
+west virginia,charleston,1
+west virginia,bucknell,1
+west virginia,iona,1
+west virginia,penn,0
+west virginia,virginia,1
+west virginia,cincinnati,1
+west virginia,tennessee,1
+west virginia,arizona,1
+west virginia,kentucky,1
+west virginia,miami - florida,1
+west virginia,nevada,1
+west virginia,creighton,1
+west virginia,kansas st,1
+west virginia,texas,1
+west virginia,loyola (il),1
+west virginia,davidson,1
+west virginia,buffalo,1
+west virginia,wright st,1
+west virginia,georgia st,1
+west virginia,maryland-baltimore county,1
+west virginia,xavier,0
+west virginia,north carolina,0
+west virginia,michigan,1
+west virginia,gonzaga,1
+west virginia,ohio st,1
+west virginia,houston,1
+west virginia,texas a&m,0
+west virginia,missouri,1
+west virginia,florida st,1
+west virginia,providence,1
+west virginia,san diego st,1
+west virginia,s dakota st,1
+west virginia,nc greensboro,1
+west virginia,montana,1
+west virginia,lipscomb,1
+west virginia,n.c. central,1
+west virginia,texas southern,1
+florida,arkansas,1
+florida,virginia tech,1
+florida,alabama,0
+florida,butler,1
+florida,st bonaventure,1
+florida,ucla,0
+florida,murray st,1
+florida,marshall,1
+florida,sf austin,1
+florida,cal st. fullerton,1
+florida,liu brooklyn,1
+florida,radford,1
+florida,kansas,0
+florida,duke,0
+florida,michigan st,0
+florida,auburn,1
+florida,clemson,0
+florida,tcu,0
+florida,rhode island,0
+florida,seton hall,1
+florida,n.c. state,0
+florida,oklahoma,1
+florida,arizona st,1
+florida,syracuse,1
+florida,new mexico st,0
+florida,charleston,1
+florida,bucknell,1
+florida,iona,1
+florida,penn,1
+florida,virginia,0
+florida,cincinnati,1
+florida,tennessee,0
+florida,arizona,0
+florida,kentucky,1
+florida,miami - florida,1
+florida,nevada,0
+florida,creighton,1
+florida,kansas st,1
+florida,texas,1
+florida,loyola (il),0
+florida,davidson,1
+florida,buffalo,1
+florida,wright st,1
+florida,georgia st,1
+florida,maryland-baltimore county,1
+florida,xavier,0
+florida,north carolina,0
+florida,michigan,0
+florida,gonzaga,0
+florida,ohio st,1
+florida,houston,1
+florida,texas a&m,1
+florida,missouri,1
+florida,florida st,1
+florida,providence,1
+florida,san diego st,0
+florida,s dakota st,1
+florida,nc greensboro,1
+florida,montana,1
+florida,lipscomb,1
+florida,n.c. central,1
+florida,texas southern,1
+arkansas,virginia tech,0
+arkansas,alabama,1
+arkansas,butler,0
+arkansas,st bonaventure,1
+arkansas,ucla,0
+arkansas,murray st,1
+arkansas,marshall,1
+arkansas,sf austin,0
+arkansas,cal st. fullerton,1
+arkansas,liu brooklyn,1
+arkansas,radford,1
+arkansas,kansas,0
+arkansas,duke,1
+arkansas,michigan st,0
+arkansas,auburn,0
+arkansas,clemson,0
+arkansas,tcu,1
+arkansas,rhode island,1
+arkansas,seton hall,0
+arkansas,n.c. state,1
+arkansas,oklahoma,1
+arkansas,arizona st,0
+arkansas,syracuse,1
+arkansas,new mexico st,1
+arkansas,charleston,1
+arkansas,bucknell,1
+arkansas,iona,0
+arkansas,penn,0
+arkansas,virginia,0
+arkansas,cincinnati,1
+arkansas,tennessee,0
+arkansas,arizona,1
+arkansas,kentucky,0
+arkansas,miami - florida,0
+arkansas,nevada,0
+arkansas,creighton,0
+arkansas,kansas st,0
+arkansas,texas,1
+arkansas,loyola (il),1
+arkansas,davidson,0
+arkansas,buffalo,1
+arkansas,wright st,1
+arkansas,georgia st,1
+arkansas,maryland-baltimore county,1
+arkansas,xavier,1
+arkansas,north carolina,0
+arkansas,michigan,0
+arkansas,gonzaga,1
+arkansas,ohio st,0
+arkansas,houston,0
+arkansas,texas a&m,1
+arkansas,missouri,0
+arkansas,florida st,1
+arkansas,providence,1
+arkansas,san diego st,1
+arkansas,s dakota st,0
+arkansas,nc greensboro,1
+arkansas,montana,1
+arkansas,lipscomb,1
+arkansas,n.c. central,1
+arkansas,texas southern,1
+virginia tech,alabama,0
+virginia tech,butler,1
+virginia tech,st bonaventure,1
+virginia tech,ucla,1
+virginia tech,murray st,1
+virginia tech,marshall,1
+virginia tech,sf austin,1
+virginia tech,cal st. fullerton,1
+virginia tech,liu brooklyn,1
+virginia tech,radford,1
+virginia tech,kansas,0
+virginia tech,duke,0
+virginia tech,michigan st,0
+virginia tech,auburn,0
+virginia tech,clemson,1
+virginia tech,tcu,1
+virginia tech,rhode island,0
+virginia tech,seton hall,0
+virginia tech,n.c. state,1
+virginia tech,oklahoma,1
+virginia tech,arizona st,1
+virginia tech,syracuse,0
+virginia tech,new mexico st,1
+virginia tech,charleston,1
+virginia tech,bucknell,1
+virginia tech,iona,1
+virginia tech,penn,1
+virginia tech,virginia,0
+virginia tech,cincinnati,0
+virginia tech,tennessee,1
+virginia tech,arizona,0
+virginia tech,kentucky,0
+virginia tech,miami - florida,0
+virginia tech,nevada,1
+virginia tech,creighton,1
+virginia tech,kansas st,0
+virginia tech,texas,0
+virginia tech,loyola (il),0
+virginia tech,davidson,1
+virginia tech,buffalo,1
+virginia tech,wright st,1
+virginia tech,georgia st,1
+virginia tech,maryland-baltimore county,1
+virginia tech,xavier,0
+virginia tech,north carolina,0
+virginia tech,michigan,0
+virginia tech,gonzaga,0
+virginia tech,ohio st,0
+virginia tech,houston,0
+virginia tech,texas a&m,0
+virginia tech,missouri,1
+virginia tech,florida st,0
+virginia tech,providence,1
+virginia tech,san diego st,0
+virginia tech,s dakota st,1
+virginia tech,nc greensboro,0
+virginia tech,montana,1
+virginia tech,lipscomb,1
+virginia tech,n.c. central,1
+virginia tech,texas southern,1
+alabama,butler,1
+alabama,st bonaventure,1
+alabama,ucla,0
+alabama,murray st,0
+alabama,marshall,1
+alabama,sf austin,1
+alabama,cal st. fullerton,1
+alabama,liu brooklyn,1
+alabama,radford,1
+alabama,kansas,0
+alabama,duke,0
+alabama,michigan st,0
+alabama,auburn,1
+alabama,clemson,1
+alabama,tcu,0
+alabama,rhode island,1
+alabama,seton hall,0
+alabama,n.c. state,0
+alabama,oklahoma,1
+alabama,arizona st,0
+alabama,syracuse,1
+alabama,new mexico st,0
+alabama,charleston,0
+alabama,bucknell,1
+alabama,iona,1
+alabama,penn,1
+alabama,virginia,0
+alabama,cincinnati,0
+alabama,tennessee,0
+alabama,arizona,0
+alabama,kentucky,0
+alabama,miami - florida,0
+alabama,nevada,0
+alabama,creighton,0
+alabama,kansas st,0
+alabama,texas,0
+alabama,loyola (il),1
+alabama,davidson,0
+alabama,buffalo,1
+alabama,wright st,1
+alabama,georgia st,0
+alabama,maryland-baltimore county,1
+alabama,xavier,0
+alabama,north carolina,0
+alabama,michigan,0
+alabama,gonzaga,0
+alabama,ohio st,0
+alabama,houston,0
+alabama,texas a&m,0
+alabama,missouri,0
+alabama,florida st,0
+alabama,providence,0
+alabama,san diego st,1
+alabama,s dakota st,1
+alabama,nc greensboro,1
+alabama,montana,1
+alabama,lipscomb,1
+alabama,n.c. central,1
+alabama,texas southern,1
+butler,st bonaventure,1
+butler,ucla,1
+butler,murray st,1
+butler,marshall,1
+butler,sf austin,1
+butler,cal st. fullerton,1
+butler,liu brooklyn,1
+butler,radford,1
+butler,kansas,0
+butler,duke,0
+butler,michigan st,0
+butler,auburn,0
+butler,clemson,1
+butler,tcu,1
+butler,rhode island,0
+butler,seton hall,0
+butler,n.c. state,1
+butler,oklahoma,1
+butler,arizona st,1
+butler,syracuse,0
+butler,new mexico st,0
+butler,charleston,1
+butler,bucknell,1
+butler,iona,1
+butler,penn,1
+butler,virginia,0
+butler,cincinnati,1
+butler,tennessee,1
+butler,arizona,0
+butler,kentucky,0
+butler,miami - florida,0
+butler,nevada,1
+butler,creighton,0
+butler,kansas st,0
+butler,texas,0
+butler,loyola (il),0
+butler,davidson,1
+butler,buffalo,1
+butler,wright st,1
+butler,georgia st,1
+butler,maryland-baltimore county,1
+butler,xavier,0
+butler,north carolina,0
+butler,michigan,0
+butler,gonzaga,0
+butler,ohio st,1
+butler,houston,1
+butler,texas a&m,0
+butler,missouri,1
+butler,florida st,0
+butler,providence,1
+butler,san diego st,0
+butler,s dakota st,1
+butler,nc greensboro,1
+butler,montana,1
+butler,lipscomb,1
+butler,n.c. central,1
+butler,texas southern,1
+st bonaventure,ucla,0
+st bonaventure,murray st,0
+st bonaventure,marshall,1
+st bonaventure,sf austin,1
+st bonaventure,cal st. fullerton,1
+st bonaventure,liu brooklyn,1
+st bonaventure,radford,1
+st bonaventure,kansas,0
+st bonaventure,duke,0
+st bonaventure,michigan st,0
+st bonaventure,auburn,0
+st bonaventure,clemson,0
+st bonaventure,tcu,0
+st bonaventure,rhode island,0
+st bonaventure,seton hall,0
+st bonaventure,n.c. state,0
+st bonaventure,oklahoma,0
+st bonaventure,arizona st,0
+st bonaventure,syracuse,0
+st bonaventure,new mexico st,1
+st bonaventure,charleston,1
+st bonaventure,bucknell,0
+st bonaventure,iona,1
+st bonaventure,penn,1
+st bonaventure,virginia,0
+st bonaventure,cincinnati,0
+st bonaventure,tennessee,0
+st bonaventure,arizona,0
+st bonaventure,kentucky,0
+st bonaventure,miami - florida,0
+st bonaventure,nevada,0
+st bonaventure,creighton,0
+st bonaventure,kansas st,0
+st bonaventure,texas,0
+st bonaventure,loyola (il),0
+st bonaventure,davidson,0
+st bonaventure,buffalo,1
+st bonaventure,wright st,1
+st bonaventure,georgia st,0
+st bonaventure,maryland-baltimore county,1
+st bonaventure,xavier,0
+st bonaventure,north carolina,0
+st bonaventure,michigan,0
+st bonaventure,gonzaga,0
+st bonaventure,ohio st,1
+st bonaventure,houston,0
+st bonaventure,texas a&m,0
+st bonaventure,missouri,0
+st bonaventure,florida st,0
+st bonaventure,providence,0
+st bonaventure,san diego st,0
+st bonaventure,s dakota st,1
+st bonaventure,nc greensboro,0
+st bonaventure,montana,0
+st bonaventure,lipscomb,1
+st bonaventure,n.c. central,1
+st bonaventure,texas southern,1
+ucla,murray st,1
+ucla,marshall,0
+ucla,sf austin,0
+ucla,cal st. fullerton,1
+ucla,liu brooklyn,1
+ucla,radford,1
+ucla,kansas,1
+ucla,duke,1
+ucla,michigan st,1
+ucla,auburn,0
+ucla,clemson,0
+ucla,tcu,1
+ucla,rhode island,0
+ucla,seton hall,0
+ucla,n.c. state,1
+ucla,oklahoma,1
+ucla,arizona st,0
+ucla,syracuse,1
+ucla,new mexico st,1
+ucla,charleston,1
+ucla,bucknell,1
+ucla,iona,1
+ucla,penn,0
+ucla,virginia,0
+ucla,cincinnati,0
+ucla,tennessee,0
+ucla,arizona,1
+ucla,kentucky,1
+ucla,miami - florida,0
+ucla,nevada,1
+ucla,creighton,0
+ucla,kansas st,1
+ucla,texas,0
+ucla,loyola (il),1
+ucla,davidson,0
+ucla,buffalo,0
+ucla,wright st,1
+ucla,georgia st,1
+ucla,maryland-baltimore county,1
+ucla,xavier,0
+ucla,north carolina,0
+ucla,michigan,0
+ucla,gonzaga,1
+ucla,ohio st,1
+ucla,houston,1
+ucla,texas a&m,1
+ucla,missouri,0
+ucla,florida st,1
+ucla,providence,0
+ucla,san diego st,1
+ucla,s dakota st,0
+ucla,nc greensboro,1
+ucla,montana,1
+ucla,lipscomb,1
+ucla,n.c. central,1
+ucla,texas southern,1
+murray st,marshall,1
+murray st,sf austin,1
+murray st,cal st. fullerton,1
+murray st,liu brooklyn,1
+murray st,radford,1
+murray st,kansas,0
+murray st,duke,0
+murray st,michigan st,0
+murray st,auburn,0
+murray st,clemson,1
+murray st,tcu,0
+murray st,rhode island,0
+murray st,seton hall,0
+murray st,n.c. state,0
+murray st,oklahoma,0
+murray st,arizona st,0
+murray st,syracuse,1
+murray st,new mexico st,1
+murray st,charleston,1
+murray st,bucknell,1
+murray st,iona,1
+murray st,penn,0
+murray st,virginia,0
+murray st,cincinnati,0
+murray st,tennessee,0
+murray st,arizona,0
+murray st,kentucky,0
+murray st,miami - florida,1
+murray st,nevada,0
+murray st,creighton,0
+murray st,kansas st,0
+murray st,texas,0
+murray st,loyola (il),0
+murray st,davidson,0
+murray st,buffalo,1
+murray st,wright st,1
+murray st,georgia st,0
+murray st,maryland-baltimore county,1
+murray st,xavier,1
+murray st,north carolina,1
+murray st,michigan,0
+murray st,gonzaga,0
+murray st,ohio st,0
+murray st,houston,0
+murray st,texas a&m,1
+murray st,missouri,1
+murray st,florida st,0
+murray st,providence,1
+murray st,san diego st,0
+murray st,s dakota st,1
+murray st,nc greensboro,0
+murray st,montana,0
+murray st,lipscomb,1
+murray st,n.c. central,1
+murray st,texas southern,1
+marshall,sf austin,1
+marshall,cal st. fullerton,0
+marshall,liu brooklyn,1
+marshall,radford,0
+marshall,kansas,0
+marshall,duke,0
+marshall,michigan st,0
+marshall,auburn,0
+marshall,clemson,0
+marshall,tcu,0
+marshall,rhode island,0
+marshall,seton hall,0
+marshall,n.c. state,0
+marshall,oklahoma,0
+marshall,arizona st,0
+marshall,syracuse,0
+marshall,new mexico st,0
+marshall,charleston,1
+marshall,bucknell,1
+marshall,iona,0
+marshall,penn,0
+marshall,virginia,0
+marshall,cincinnati,0
+marshall,tennessee,0
+marshall,arizona,0
+marshall,kentucky,0
+marshall,miami - florida,0
+marshall,nevada,0
+marshall,creighton,0
+marshall,kansas st,0
+marshall,texas,0
+marshall,loyola (il),0
+marshall,davidson,0
+marshall,buffalo,0
+marshall,wright st,1
+marshall,georgia st,0
+marshall,maryland-baltimore county,1
+marshall,xavier,0
+marshall,north carolina,0
+marshall,michigan,0
+marshall,gonzaga,0
+marshall,ohio st,0
+marshall,houston,0
+marshall,texas a&m,1
+marshall,missouri,0
+marshall,florida st,0
+marshall,providence,0
+marshall,san diego st,0
+marshall,s dakota st,1
+marshall,nc greensboro,0
+marshall,montana,0
+marshall,lipscomb,0
+marshall,n.c. central,1
+marshall,texas southern,1
+sf austin,cal st. fullerton,1
+sf austin,liu brooklyn,1
+sf austin,radford,1
+sf austin,kansas,0
+sf austin,duke,0
+sf austin,michigan st,0
+sf austin,auburn,0
+sf austin,clemson,0
+sf austin,tcu,0
+sf austin,rhode island,1
+sf austin,seton hall,0
+sf austin,n.c. state,1
+sf austin,oklahoma,0
+sf austin,arizona st,1
+sf austin,syracuse,1
+sf austin,new mexico st,0
+sf austin,charleston,0
+sf austin,bucknell,1
+sf austin,iona,1
+sf austin,penn,1
+sf austin,virginia,0
+sf austin,cincinnati,0
+sf austin,tennessee,0
+sf austin,arizona,0
+sf austin,kentucky,0
+sf austin,miami - florida,0
+sf austin,nevada,0
+sf austin,creighton,0
+sf austin,kansas st,0
+sf austin,texas,0
+sf austin,loyola (il),0
+sf austin,davidson,1
+sf austin,buffalo,1
+sf austin,wright st,0
+sf austin,georgia st,1
+sf austin,maryland-baltimore county,1
+sf austin,xavier,0
+sf austin,north carolina,0
+sf austin,michigan,0
+sf austin,gonzaga,0
+sf austin,ohio st,0
+sf austin,houston,0
+sf austin,texas a&m,0
+sf austin,missouri,0
+sf austin,florida st,0
+sf austin,providence,0
+sf austin,san diego st,0
+sf austin,s dakota st,1
+sf austin,nc greensboro,1
+sf austin,montana,0
+sf austin,lipscomb,1
+sf austin,n.c. central,1
+sf austin,texas southern,1
+cal st. fullerton,liu brooklyn,0
+cal st. fullerton,radford,1
+cal st. fullerton,kansas,0
+cal st. fullerton,duke,0
+cal st. fullerton,michigan st,0
+cal st. fullerton,auburn,0
+cal st. fullerton,clemson,0
+cal st. fullerton,tcu,0
+cal st. fullerton,rhode island,0
+cal st. fullerton,seton hall,0
+cal st. fullerton,n.c. state,0
+cal st. fullerton,oklahoma,0
+cal st. fullerton,arizona st,0
+cal st. fullerton,syracuse,0
+cal st. fullerton,new mexico st,0
+cal st. fullerton,charleston,0
+cal st. fullerton,bucknell,1
+cal st. fullerton,iona,1
+cal st. fullerton,penn,0
+cal st. fullerton,virginia,0
+cal st. fullerton,cincinnati,0
+cal st. fullerton,tennessee,0
+cal st. fullerton,arizona,0
+cal st. fullerton,kentucky,0
+cal st. fullerton,miami - florida,0
+cal st. fullerton,nevada,0
+cal st. fullerton,creighton,0
+cal st. fullerton,kansas st,0
+cal st. fullerton,texas,0
+cal st. fullerton,loyola (il),0
+cal st. fullerton,davidson,0
+cal st. fullerton,buffalo,0
+cal st. fullerton,wright st,1
+cal st. fullerton,georgia st,1
+cal st. fullerton,maryland-baltimore county,0
+cal st. fullerton,xavier,0
+cal st. fullerton,north carolina,0
+cal st. fullerton,michigan,0
+cal st. fullerton,gonzaga,0
+cal st. fullerton,ohio st,0
+cal st. fullerton,houston,0
+cal st. fullerton,texas a&m,0
+cal st. fullerton,missouri,0
+cal st. fullerton,florida st,0
+cal st. fullerton,providence,0
+cal st. fullerton,san diego st,0
+cal st. fullerton,s dakota st,0
+cal st. fullerton,nc greensboro,0
+cal st. fullerton,montana,0
+cal st. fullerton,lipscomb,1
+cal st. fullerton,n.c. central,1
+cal st. fullerton,texas southern,0
+liu brooklyn,radford,1
+liu brooklyn,kansas,0
+liu brooklyn,duke,0
+liu brooklyn,michigan st,0
+liu brooklyn,auburn,0
+liu brooklyn,clemson,0
+liu brooklyn,tcu,0
+liu brooklyn,rhode island,0
+liu brooklyn,seton hall,0
+liu brooklyn,n.c. state,0
+liu brooklyn,oklahoma,0
+liu brooklyn,arizona st,0
+liu brooklyn,syracuse,0
+liu brooklyn,new mexico st,0
+liu brooklyn,charleston,0
+liu brooklyn,bucknell,0
+liu brooklyn,iona,0
+liu brooklyn,penn,0
+liu brooklyn,virginia,0
+liu brooklyn,cincinnati,0
+liu brooklyn,tennessee,0
+liu brooklyn,arizona,0
+liu brooklyn,kentucky,0
+liu brooklyn,miami - florida,0
+liu brooklyn,nevada,0
+liu brooklyn,creighton,0
+liu brooklyn,kansas st,0
+liu brooklyn,texas,0
+liu brooklyn,loyola (il),0
+liu brooklyn,davidson,0
+liu brooklyn,buffalo,0
+liu brooklyn,wright st,0
+liu brooklyn,georgia st,0
+liu brooklyn,maryland-baltimore county,1
+liu brooklyn,xavier,0
+liu brooklyn,north carolina,0
+liu brooklyn,michigan,0
+liu brooklyn,gonzaga,0
+liu brooklyn,ohio st,0
+liu brooklyn,houston,0
+liu brooklyn,texas a&m,0
+liu brooklyn,missouri,0
+liu brooklyn,florida st,0
+liu brooklyn,providence,0
+liu brooklyn,san diego st,0
+liu brooklyn,s dakota st,0
+liu brooklyn,nc greensboro,0
+liu brooklyn,montana,0
+liu brooklyn,lipscomb,1
+liu brooklyn,n.c. central,1
+liu brooklyn,texas southern,0
+radford,kansas,0
+radford,duke,0
+radford,michigan st,0
+radford,auburn,0
+radford,clemson,0
+radford,tcu,0
+radford,rhode island,0
+radford,seton hall,0
+radford,n.c. state,0
+radford,oklahoma,0
+radford,arizona st,0
+radford,syracuse,0
+radford,new mexico st,0
+radford,charleston,0
+radford,bucknell,0
+radford,iona,1
+radford,penn,1
+radford,virginia,0
+radford,cincinnati,0
+radford,tennessee,0
+radford,arizona,0
+radford,kentucky,0
+radford,miami - florida,0
+radford,nevada,0
+radford,creighton,0
+radford,kansas st,0
+radford,texas,0
+radford,loyola (il),0
+radford,davidson,0
+radford,buffalo,0
+radford,wright st,1
+radford,georgia st,0
+radford,maryland-baltimore county,1
+radford,xavier,0
+radford,north carolina,0
+radford,michigan,0
+radford,gonzaga,0
+radford,ohio st,0
+radford,houston,0
+radford,texas a&m,0
+radford,missouri,0
+radford,florida st,0
+radford,providence,1
+radford,san diego st,0
+radford,s dakota st,0
+radford,nc greensboro,0
+radford,montana,0
+radford,lipscomb,1
+radford,n.c. central,1
+radford,texas southern,1
+kansas,duke,1
+kansas,michigan st,1
+kansas,auburn,1
+kansas,clemson,1
+kansas,tcu,1
+kansas,rhode island,1
+kansas,seton hall,1
+kansas,n.c. state,0
+kansas,oklahoma,1
+kansas,arizona st,0
+kansas,syracuse,1
+kansas,new mexico st,1
+kansas,charleston,1
+kansas,bucknell,1
+kansas,iona,1
+kansas,penn,1
+kansas,virginia,0
+kansas,cincinnati,1
+kansas,tennessee,1
+kansas,arizona,1
+kansas,kentucky,1
+kansas,miami - florida,1
+kansas,nevada,1
+kansas,creighton,1
+kansas,kansas st,1
+kansas,texas,1
+kansas,loyola (il),1
+kansas,davidson,0
+kansas,buffalo,1
+kansas,wright st,1
+kansas,georgia st,1
+kansas,maryland-baltimore county,1
+kansas,xavier,0
+kansas,north carolina,0
+kansas,michigan,1
+kansas,gonzaga,1
+kansas,ohio st,1
+kansas,houston,1
+kansas,texas a&m,1
+kansas,missouri,1
+kansas,florida st,0
+kansas,providence,0
+kansas,san diego st,1
+kansas,s dakota st,1
+kansas,nc greensboro,1
+kansas,montana,1
+kansas,lipscomb,1
+kansas,n.c. central,1
+kansas,texas southern,1
+duke,michigan st,1
+duke,auburn,0
+duke,clemson,1
+duke,tcu,1
+duke,rhode island,1
+duke,seton hall,1
+duke,n.c. state,0
+duke,oklahoma,1
+duke,arizona st,0
+duke,syracuse,1
+duke,new mexico st,1
+duke,charleston,1
+duke,bucknell,1
+duke,iona,1
+duke,penn,1
+duke,virginia,0
+duke,cincinnati,1
+duke,tennessee,1
+duke,arizona,1
+duke,kentucky,1
+duke,miami - florida,1
+duke,nevada,1
+duke,creighton,1
+duke,kansas st,1
+duke,texas,1
+duke,loyola (il),1
+duke,davidson,0
+duke,buffalo,1
+duke,wright st,1
+duke,georgia st,1
+duke,maryland-baltimore county,1
+duke,xavier,1
+duke,north carolina,0
+duke,michigan,1
+duke,gonzaga,1
+duke,ohio st,1
+duke,houston,1
+duke,texas a&m,1
+duke,missouri,1
+duke,florida st,1
+duke,providence,1
+duke,san diego st,1
+duke,s dakota st,1
+duke,nc greensboro,1
+duke,montana,1
+duke,lipscomb,1
+duke,n.c. central,1
+duke,texas southern,1
+michigan st,auburn,1
+michigan st,clemson,1
+michigan st,tcu,1
+michigan st,rhode island,1
+michigan st,seton hall,1
+michigan st,n.c. state,1
+michigan st,oklahoma,1
+michigan st,arizona st,1
+michigan st,syracuse,1
+michigan st,new mexico st,1
+michigan st,charleston,1
+michigan st,bucknell,1
+michigan st,iona,1
+michigan st,penn,1
+michigan st,virginia,0
+michigan st,cincinnati,1
+michigan st,tennessee,0
+michigan st,arizona,1
+michigan st,kentucky,1
+michigan st,miami - florida,1
+michigan st,nevada,1
+michigan st,creighton,1
+michigan st,kansas st,1
+michigan st,texas,1
+michigan st,loyola (il),0
+michigan st,davidson,1
+michigan st,buffalo,0
+michigan st,wright st,1
+michigan st,georgia st,1
+michigan st,maryland-baltimore county,1
+michigan st,xavier,1
+michigan st,north carolina,1
+michigan st,michigan,0
+michigan st,gonzaga,0
+michigan st,ohio st,1
+michigan st,houston,1
+michigan st,texas a&m,1
+michigan st,missouri,1
+michigan st,florida st,1
+michigan st,providence,1
+michigan st,san diego st,1
+michigan st,s dakota st,0
+michigan st,nc greensboro,1
+michigan st,montana,1
+michigan st,lipscomb,1
+michigan st,n.c. central,1
+michigan st,texas southern,1
+auburn,clemson,1
+auburn,tcu,1
+auburn,rhode island,1
+auburn,seton hall,1
+auburn,n.c. state,1
+auburn,oklahoma,1
+auburn,arizona st,1
+auburn,syracuse,0
+auburn,new mexico st,0
+auburn,charleston,1
+auburn,bucknell,0
+auburn,iona,1
+auburn,penn,0
+auburn,virginia,1
+auburn,cincinnati,1
+auburn,tennessee,1
+auburn,arizona,1
+auburn,kentucky,1
+auburn,miami - florida,1
+auburn,nevada,0
+auburn,creighton,1
+auburn,kansas st,1
+auburn,texas,1
+auburn,loyola (il),1
+auburn,davidson,1
+auburn,buffalo,1
+auburn,wright st,1
+auburn,georgia st,0
+auburn,maryland-baltimore county,1
+auburn,xavier,0
+auburn,north carolina,0
+auburn,michigan,1
+auburn,gonzaga,1
+auburn,ohio st,1
+auburn,houston,1
+auburn,texas a&m,0
+auburn,missouri,1
+auburn,florida st,1
+auburn,providence,1
+auburn,san diego st,1
+auburn,s dakota st,1
+auburn,nc greensboro,1
+auburn,montana,1
+auburn,lipscomb,1
+auburn,n.c. central,1
+auburn,texas southern,1
+clemson,tcu,1
+clemson,rhode island,1
+clemson,seton hall,1
+clemson,n.c. state,1
+clemson,oklahoma,1
+clemson,arizona st,1
+clemson,syracuse,0
+clemson,new mexico st,0
+clemson,charleston,1
+clemson,bucknell,0
+clemson,iona,1
+clemson,penn,1
+clemson,virginia,0
+clemson,cincinnati,0
+clemson,tennessee,0
+clemson,arizona,1
+clemson,kentucky,1
+clemson,miami - florida,1
+clemson,nevada,1
+clemson,creighton,1
+clemson,kansas st,1
+clemson,texas,1
+clemson,loyola (il),1
+clemson,davidson,1
+clemson,buffalo,1
+clemson,wright st,1
+clemson,georgia st,0
+clemson,maryland-baltimore county,1
+clemson,xavier,1
+clemson,north carolina,1
+clemson,michigan,0
+clemson,gonzaga,0
+clemson,ohio st,1
+clemson,houston,1
+clemson,texas a&m,1
+clemson,missouri,1
+clemson,florida st,1
+clemson,providence,1
+clemson,san diego st,1
+clemson,s dakota st,1
+clemson,nc greensboro,1
+clemson,montana,1
+clemson,lipscomb,1
+clemson,n.c. central,1
+clemson,texas southern,1
+tcu,rhode island,0
+tcu,seton hall,0
+tcu,n.c. state,0
+tcu,oklahoma,0
+tcu,arizona st,1
+tcu,syracuse,1
+tcu,new mexico st,1
+tcu,charleston,1
+tcu,bucknell,1
+tcu,iona,1
+tcu,penn,1
+tcu,virginia,0
+tcu,cincinnati,1
+tcu,tennessee,0
+tcu,arizona,0
+tcu,kentucky,1
+tcu,miami - florida,0
+tcu,nevada,0
+tcu,creighton,0
+tcu,kansas st,0
+tcu,texas,1
+tcu,loyola (il),1
+tcu,davidson,1
+tcu,buffalo,0
+tcu,wright st,1
+tcu,georgia st,1
+tcu,maryland-baltimore county,1
+tcu,xavier,0
+tcu,north carolina,0
+tcu,michigan,0
+tcu,gonzaga,0
+tcu,ohio st,0
+tcu,houston,0
+tcu,texas a&m,1
+tcu,missouri,0
+tcu,florida st,0
+tcu,providence,1
+tcu,san diego st,0
+tcu,s dakota st,0
+tcu,nc greensboro,1
+tcu,montana,1
+tcu,lipscomb,1
+tcu,n.c. central,1
+tcu,texas southern,1
+rhode island,seton hall,1
+rhode island,n.c. state,0
+rhode island,oklahoma,0
+rhode island,arizona st,0
+rhode island,syracuse,0
+rhode island,new mexico st,0
+rhode island,charleston,1
+rhode island,bucknell,1
+rhode island,iona,1
+rhode island,penn,1
+rhode island,virginia,0
+rhode island,cincinnati,0
+rhode island,tennessee,0
+rhode island,arizona,0
+rhode island,kentucky,0
+rhode island,miami - florida,0
+rhode island,nevada,1
+rhode island,creighton,1
+rhode island,kansas st,0
+rhode island,texas,1
+rhode island,loyola (il),1
+rhode island,davidson,0
+rhode island,buffalo,1
+rhode island,wright st,1
+rhode island,georgia st,1
+rhode island,maryland-baltimore county,1
+rhode island,xavier,0
+rhode island,north carolina,0
+rhode island,michigan,0
+rhode island,gonzaga,0
+rhode island,ohio st,0
+rhode island,houston,0
+rhode island,texas a&m,1
+rhode island,missouri,1
+rhode island,florida st,0
+rhode island,providence,1
+rhode island,san diego st,1
+rhode island,s dakota st,0
+rhode island,nc greensboro,1
+rhode island,montana,1
+rhode island,lipscomb,1
+rhode island,n.c. central,1
+rhode island,texas southern,1
+seton hall,n.c. state,1
+seton hall,oklahoma,1
+seton hall,arizona st,1
+seton hall,syracuse,1
+seton hall,new mexico st,1
+seton hall,charleston,1
+seton hall,bucknell,1
+seton hall,iona,1
+seton hall,penn,1
+seton hall,virginia,0
+seton hall,cincinnati,1
+seton hall,tennessee,0
+seton hall,arizona,0
+seton hall,kentucky,1
+seton hall,miami - florida,1
+seton hall,nevada,1
+seton hall,creighton,1
+seton hall,kansas st,0
+seton hall,texas,0
+seton hall,loyola (il),0
+seton hall,davidson,1
+seton hall,buffalo,1
+seton hall,wright st,1
+seton hall,georgia st,1
+seton hall,maryland-baltimore county,1
+seton hall,xavier,0
+seton hall,north carolina,0
+seton hall,michigan,0
+seton hall,gonzaga,0
+seton hall,ohio st,1
+seton hall,houston,1
+seton hall,texas a&m,0
+seton hall,missouri,1
+seton hall,florida st,1
+seton hall,providence,1
+seton hall,san diego st,0
+seton hall,s dakota st,1
+seton hall,nc greensboro,1
+seton hall,montana,1
+seton hall,lipscomb,1
+seton hall,n.c. central,1
+seton hall,texas southern,1
+n.c. state,oklahoma,1
+n.c. state,arizona st,0
+n.c. state,syracuse,1
+n.c. state,new mexico st,1
+n.c. state,charleston,1
+n.c. state,bucknell,1
+n.c. state,iona,1
+n.c. state,penn,0
+n.c. state,virginia,0
+n.c. state,cincinnati,0
+n.c. state,tennessee,0
+n.c. state,arizona,1
+n.c. state,kentucky,0
+n.c. state,miami - florida,1
+n.c. state,nevada,1
+n.c. state,creighton,0
+n.c. state,kansas st,1
+n.c. state,texas,0
+n.c. state,loyola (il),1
+n.c. state,davidson,0
+n.c. state,buffalo,0
+n.c. state,wright st,1
+n.c. state,georgia st,1
+n.c. state,maryland-baltimore county,1
+n.c. state,xavier,0
+n.c. state,north carolina,0
+n.c. state,michigan,0
+n.c. state,gonzaga,1
+n.c. state,ohio st,0
+n.c. state,houston,1
+n.c. state,texas a&m,0
+n.c. state,missouri,0
+n.c. state,florida st,1
+n.c. state,providence,0
+n.c. state,san diego st,1
+n.c. state,s dakota st,0
+n.c. state,nc greensboro,1
+n.c. state,montana,1
+n.c. state,lipscomb,1
+n.c. state,n.c. central,1
+n.c. state,texas southern,1
+oklahoma,arizona st,0
+oklahoma,syracuse,1
+oklahoma,new mexico st,0
+oklahoma,charleston,1
+oklahoma,bucknell,0
+oklahoma,iona,1
+oklahoma,penn,1
+oklahoma,virginia,0
+oklahoma,cincinnati,0
+oklahoma,tennessee,0
+oklahoma,arizona,0
+oklahoma,kentucky,0
+oklahoma,miami - florida,1
+oklahoma,nevada,1
+oklahoma,creighton,0
+oklahoma,kansas st,1
+oklahoma,texas,0
+oklahoma,loyola (il),1
+oklahoma,davidson,0
+oklahoma,buffalo,1
+oklahoma,wright st,1
+oklahoma,georgia st,1
+oklahoma,maryland-baltimore county,1
+oklahoma,xavier,1
+oklahoma,north carolina,0
+oklahoma,michigan,0
+oklahoma,gonzaga,1
+oklahoma,ohio st,0
+oklahoma,houston,0
+oklahoma,texas a&m,0
+oklahoma,missouri,0
+oklahoma,florida st,0
+oklahoma,providence,0
+oklahoma,san diego st,1
+oklahoma,s dakota st,1
+oklahoma,nc greensboro,0
+oklahoma,montana,1
+oklahoma,lipscomb,1
+oklahoma,n.c. central,1
+oklahoma,texas southern,1
+arizona st,syracuse,1
+arizona st,new mexico st,1
+arizona st,charleston,1
+arizona st,bucknell,1
+arizona st,iona,0
+arizona st,penn,1
+arizona st,virginia,0
+arizona st,cincinnati,0
+arizona st,tennessee,0
+arizona st,arizona,0
+arizona st,kentucky,0
+arizona st,miami - florida,1
+arizona st,nevada,0
+arizona st,creighton,0
+arizona st,kansas st,1
+arizona st,texas,0
+arizona st,loyola (il),1
+arizona st,davidson,1
+arizona st,buffalo,0
+arizona st,wright st,1
+arizona st,georgia st,1
+arizona st,maryland-baltimore county,1
+arizona st,xavier,1
+arizona st,north carolina,0
+arizona st,michigan,0
+arizona st,gonzaga,1
+arizona st,ohio st,0
+arizona st,houston,0
+arizona st,texas a&m,1
+arizona st,missouri,1
+arizona st,florida st,1
+arizona st,providence,0
+arizona st,san diego st,1
+arizona st,s dakota st,0
+arizona st,nc greensboro,1
+arizona st,montana,0
+arizona st,lipscomb,1
+arizona st,n.c. central,1
+arizona st,texas southern,1
+syracuse,new mexico st,0
+syracuse,charleston,1
+syracuse,bucknell,1
+syracuse,iona,1
+syracuse,penn,0
+syracuse,virginia,0
+syracuse,cincinnati,0
+syracuse,tennessee,1
+syracuse,arizona,0
+syracuse,kentucky,0
+syracuse,miami - florida,0
+syracuse,nevada,1
+syracuse,creighton,0
+syracuse,kansas st,1
+syracuse,texas,0
+syracuse,loyola (il),1
+syracuse,davidson,0
+syracuse,buffalo,1
+syracuse,wright st,1
+syracuse,georgia st,1
+syracuse,maryland-baltimore county,1
+syracuse,xavier,0
+syracuse,north carolina,0
+syracuse,michigan,0
+syracuse,gonzaga,0
+syracuse,ohio st,0
+syracuse,houston,0
+syracuse,texas a&m,0
+syracuse,missouri,0
+syracuse,florida st,0
+syracuse,providence,1
+syracuse,san diego st,1
+syracuse,s dakota st,1
+syracuse,nc greensboro,1
+syracuse,montana,1
+syracuse,lipscomb,1
+syracuse,n.c. central,1
+syracuse,texas southern,1
+new mexico st,charleston,0
+new mexico st,bucknell,1
+new mexico st,iona,1
+new mexico st,penn,1
+new mexico st,virginia,0
+new mexico st,cincinnati,0
+new mexico st,tennessee,0
+new mexico st,arizona,0
+new mexico st,kentucky,0
+new mexico st,miami - florida,0
+new mexico st,nevada,0
+new mexico st,creighton,0
+new mexico st,kansas st,0
+new mexico st,texas,0
+new mexico st,loyola (il),1
+new mexico st,davidson,0
+new mexico st,buffalo,1
+new mexico st,wright st,1
+new mexico st,georgia st,0
+new mexico st,maryland-baltimore county,1
+new mexico st,xavier,0
+new mexico st,north carolina,0
+new mexico st,michigan,0
+new mexico st,gonzaga,0
+new mexico st,ohio st,0
+new mexico st,houston,0
+new mexico st,texas a&m,0
+new mexico st,missouri,0
+new mexico st,florida st,0
+new mexico st,providence,0
+new mexico st,san diego st,1
+new mexico st,s dakota st,1
+new mexico st,nc greensboro,1
+new mexico st,montana,1
+new mexico st,lipscomb,1
+new mexico st,n.c. central,1
+new mexico st,texas southern,1
+charleston,bucknell,0
+charleston,iona,1
+charleston,penn,1
+charleston,virginia,0
+charleston,cincinnati,0
+charleston,tennessee,0
+charleston,arizona,0
+charleston,kentucky,0
+charleston,miami - florida,0
+charleston,nevada,0
+charleston,creighton,0
+charleston,kansas st,0
+charleston,texas,0
+charleston,loyola (il),0
+charleston,davidson,0
+charleston,buffalo,1
+charleston,wright st,1
+charleston,georgia st,0
+charleston,maryland-baltimore county,0
+charleston,xavier,0
+charleston,north carolina,0
+charleston,michigan,0
+charleston,gonzaga,0
+charleston,ohio st,0
+charleston,houston,0
+charleston,texas a&m,1
+charleston,missouri,0
+charleston,florida st,0
+charleston,providence,0
+charleston,san diego st,0
+charleston,s dakota st,1
+charleston,nc greensboro,0
+charleston,montana,1
+charleston,lipscomb,1
+charleston,n.c. central,1
+charleston,texas southern,1
+bucknell,iona,1
+bucknell,penn,1
+bucknell,virginia,0
+bucknell,cincinnati,0
+bucknell,tennessee,0
+bucknell,arizona,0
+bucknell,kentucky,0
+bucknell,miami - florida,0
+bucknell,nevada,0
+bucknell,creighton,0
+bucknell,kansas st,0
+bucknell,texas,0
+bucknell,loyola (il),0
+bucknell,davidson,0
+bucknell,buffalo,1
+bucknell,wright st,0
+bucknell,georgia st,1
+bucknell,maryland-baltimore county,1
+bucknell,xavier,0
+bucknell,north carolina,0
+bucknell,michigan,0
+bucknell,gonzaga,0
+bucknell,ohio st,0
+bucknell,houston,0
+bucknell,texas a&m,0
+bucknell,missouri,0
+bucknell,florida st,1
+bucknell,providence,0
+bucknell,san diego st,1
+bucknell,s dakota st,1
+bucknell,nc greensboro,0
+bucknell,montana,0
+bucknell,lipscomb,1
+bucknell,n.c. central,1
+bucknell,texas southern,1
+iona,penn,1
+iona,virginia,0
+iona,cincinnati,0
+iona,tennessee,0
+iona,arizona,0
+iona,kentucky,0
+iona,miami - florida,0
+iona,nevada,0
+iona,creighton,0
+iona,kansas st,0
+iona,texas,0
+iona,loyola (il),0
+iona,davidson,1
+iona,buffalo,0
+iona,wright st,1
+iona,georgia st,0
+iona,maryland-baltimore county,1
+iona,xavier,0
+iona,north carolina,1
+iona,michigan,0
+iona,gonzaga,0
+iona,ohio st,0
+iona,houston,0
+iona,texas a&m,1
+iona,missouri,0
+iona,florida st,0
+iona,providence,0
+iona,san diego st,0
+iona,s dakota st,0
+iona,nc greensboro,0
+iona,montana,0
+iona,lipscomb,0
+iona,n.c. central,1
+iona,texas southern,1
+penn,virginia,0
+penn,cincinnati,0
+penn,tennessee,0
+penn,arizona,0
+penn,kentucky,0
+penn,miami - florida,0
+penn,nevada,0
+penn,creighton,0
+penn,kansas st,0
+penn,texas,0
+penn,loyola (il),0
+penn,davidson,0
+penn,buffalo,0
+penn,wright st,0
+penn,georgia st,0
+penn,maryland-baltimore county,1
+penn,xavier,0
+penn,north carolina,0
+penn,michigan,0
+penn,gonzaga,0
+penn,ohio st,0
+penn,houston,0
+penn,texas a&m,0
+penn,missouri,0
+penn,florida st,0
+penn,providence,0
+penn,san diego st,0
+penn,s dakota st,0
+penn,nc greensboro,1
+penn,montana,0
+penn,lipscomb,0
+penn,n.c. central,1
+penn,texas southern,1
+virginia,cincinnati,0
+virginia,tennessee,1
+virginia,arizona,1
+virginia,kentucky,0
+virginia,miami - florida,1
+virginia,nevada,1
+virginia,creighton,1
+virginia,kansas st,1
+virginia,texas,1
+virginia,loyola (il),1
+virginia,davidson,1
+virginia,buffalo,1
+virginia,wright st,1
+virginia,georgia st,1
+virginia,maryland-baltimore county,1
+virginia,xavier,1
+virginia,north carolina,1
+virginia,michigan,1
+virginia,gonzaga,0
+virginia,ohio st,1
+virginia,houston,1
+virginia,texas a&m,1
+virginia,missouri,1
+virginia,florida st,1
+virginia,providence,1
+virginia,san diego st,1
+virginia,s dakota st,1
+virginia,nc greensboro,1
+virginia,montana,1
+virginia,lipscomb,1
+virginia,n.c. central,1
+virginia,texas southern,1
+cincinnati,tennessee,1
+cincinnati,arizona,1
+cincinnati,kentucky,0
+cincinnati,miami - florida,0
+cincinnati,nevada,0
+cincinnati,creighton,1
+cincinnati,kansas st,1
+cincinnati,texas,1
+cincinnati,loyola (il),1
+cincinnati,davidson,1
+cincinnati,buffalo,1
+cincinnati,wright st,1
+cincinnati,georgia st,1
+cincinnati,maryland-baltimore county,1
+cincinnati,xavier,1
+cincinnati,north carolina,0
+cincinnati,michigan,1
+cincinnati,gonzaga,0
+cincinnati,ohio st,0
+cincinnati,houston,0
+cincinnati,texas a&m,1
+cincinnati,missouri,0
+cincinnati,florida st,1
+cincinnati,providence,1
+cincinnati,san diego st,1
+cincinnati,s dakota st,1
+cincinnati,nc greensboro,1
+cincinnati,montana,1
+cincinnati,lipscomb,1
+cincinnati,n.c. central,1
+cincinnati,texas southern,1
+tennessee,arizona,1
+tennessee,kentucky,1
+tennessee,miami - florida,1
+tennessee,nevada,1
+tennessee,creighton,1
+tennessee,kansas st,1
+tennessee,texas,1
+tennessee,loyola (il),0
+tennessee,davidson,1
+tennessee,buffalo,1
+tennessee,wright st,1
+tennessee,georgia st,1
+tennessee,maryland-baltimore county,1
+tennessee,xavier,1
+tennessee,north carolina,0
+tennessee,michigan,0
+tennessee,gonzaga,0
+tennessee,ohio st,1
+tennessee,houston,1
+tennessee,texas a&m,1
+tennessee,missouri,1
+tennessee,florida st,1
+tennessee,providence,1
+tennessee,san diego st,1
+tennessee,s dakota st,1
+tennessee,nc greensboro,1
+tennessee,montana,1
+tennessee,lipscomb,1
+tennessee,n.c. central,1
+tennessee,texas southern,1
+arizona,kentucky,1
+arizona,miami - florida,1
+arizona,nevada,1
+arizona,creighton,1
+arizona,kansas st,1
+arizona,texas,1
+arizona,loyola (il),1
+arizona,davidson,1
+arizona,buffalo,1
+arizona,wright st,1
+arizona,georgia st,1
+arizona,maryland-baltimore county,1
+arizona,xavier,1
+arizona,north carolina,0
+arizona,michigan,0
+arizona,gonzaga,0
+arizona,ohio st,1
+arizona,houston,1
+arizona,texas a&m,1
+arizona,missouri,1
+arizona,florida st,1
+arizona,providence,1
+arizona,san diego st,1
+arizona,s dakota st,1
+arizona,nc greensboro,1
+arizona,montana,1
+arizona,lipscomb,1
+arizona,n.c. central,1
+arizona,texas southern,1
+kentucky,miami - florida,1
+kentucky,nevada,0
+kentucky,creighton,0
+kentucky,kansas st,1
+kentucky,texas,0
+kentucky,loyola (il),0
+kentucky,davidson,1
+kentucky,buffalo,1
+kentucky,wright st,1
+kentucky,georgia st,1
+kentucky,maryland-baltimore county,1
+kentucky,xavier,0
+kentucky,north carolina,0
+kentucky,michigan,1
+kentucky,gonzaga,0
+kentucky,ohio st,1
+kentucky,houston,1
+kentucky,texas a&m,0
+kentucky,missouri,1
+kentucky,florida st,0
+kentucky,providence,1
+kentucky,san diego st,1
+kentucky,s dakota st,1
+kentucky,nc greensboro,1
+kentucky,montana,1
+kentucky,lipscomb,1
+kentucky,n.c. central,1
+kentucky,texas southern,1
+miami - florida,nevada,1
+miami - florida,creighton,0
+miami - florida,kansas st,0
+miami - florida,texas,1
+miami - florida,loyola (il),1
+miami - florida,davidson,0
+miami - florida,buffalo,1
+miami - florida,wright st,1
+miami - florida,georgia st,0
+miami - florida,maryland-baltimore county,1
+miami - florida,xavier,0
+miami - florida,north carolina,0
+miami - florida,michigan,1
+miami - florida,gonzaga,0
+miami - florida,ohio st,0
+miami - florida,houston,0
+miami - florida,texas a&m,0
+miami - florida,missouri,0
+miami - florida,florida st,1
+miami - florida,providence,0
+miami - florida,san diego st,1
+miami - florida,s dakota st,1
+miami - florida,nc greensboro,1
+miami - florida,montana,0
+miami - florida,lipscomb,1
+miami - florida,n.c. central,1
+miami - florida,texas southern,1
+nevada,creighton,0
+nevada,kansas st,0
+nevada,texas,1
+nevada,loyola (il),1
+nevada,davidson,1
+nevada,buffalo,0
+nevada,wright st,1
+nevada,georgia st,1
+nevada,maryland-baltimore county,1
+nevada,xavier,0
+nevada,north carolina,0
+nevada,michigan,0
+nevada,gonzaga,0
+nevada,ohio st,0
+nevada,houston,0
+nevada,texas a&m,1
+nevada,missouri,0
+nevada,florida st,0
+nevada,providence,1
+nevada,san diego st,1
+nevada,s dakota st,0
+nevada,nc greensboro,0
+nevada,montana,1
+nevada,lipscomb,1
+nevada,n.c. central,1
+nevada,texas southern,1
+creighton,kansas st,1
+creighton,texas,0
+creighton,loyola (il),0
+creighton,davidson,1
+creighton,buffalo,1
+creighton,wright st,1
+creighton,georgia st,1
+creighton,maryland-baltimore county,1
+creighton,xavier,0
+creighton,north carolina,0
+creighton,michigan,0
+creighton,gonzaga,0
+creighton,ohio st,1
+creighton,houston,1
+creighton,texas a&m,0
+creighton,missouri,1
+creighton,florida st,1
+creighton,providence,0
+creighton,san diego st,1
+creighton,s dakota st,1
+creighton,nc greensboro,1
+creighton,montana,1
+creighton,lipscomb,1
+creighton,n.c. central,1
+creighton,texas southern,1
+kansas st,texas,1
+kansas st,loyola (il),1
+kansas st,davidson,0
+kansas st,buffalo,1
+kansas st,wright st,1
+kansas st,georgia st,1
+kansas st,maryland-baltimore county,1
+kansas st,xavier,0
+kansas st,north carolina,0
+kansas st,michigan,0
+kansas st,gonzaga,0
+kansas st,ohio st,1
+kansas st,houston,1
+kansas st,texas a&m,1
+kansas st,missouri,1
+kansas st,florida st,1
+kansas st,providence,1
+kansas st,san diego st,1
+kansas st,s dakota st,1
+kansas st,nc greensboro,1
+kansas st,montana,1
+kansas st,lipscomb,1
+kansas st,n.c. central,1
+kansas st,texas southern,1
+texas,loyola (il),0
+texas,davidson,0
+texas,buffalo,1
+texas,wright st,1
+texas,georgia st,1
+texas,maryland-baltimore county,1
+texas,xavier,0
+texas,north carolina,0
+texas,michigan,0
+texas,gonzaga,0
+texas,ohio st,0
+texas,houston,0
+texas,texas a&m,0
+texas,missouri,0
+texas,florida st,1
+texas,providence,1
+texas,san diego st,0
+texas,s dakota st,1
+texas,nc greensboro,0
+texas,montana,1
+texas,lipscomb,1
+texas,n.c. central,1
+texas,texas southern,1
+loyola (il),davidson,0
+loyola (il),buffalo,0
+loyola (il),wright st,1
+loyola (il),georgia st,1
+loyola (il),maryland-baltimore county,1
+loyola (il),xavier,0
+loyola (il),north carolina,0
+loyola (il),michigan,0
+loyola (il),gonzaga,0
+loyola (il),ohio st,1
+loyola (il),houston,1
+loyola (il),texas a&m,1
+loyola (il),missouri,0
+loyola (il),florida st,0
+loyola (il),providence,1
+loyola (il),san diego st,0
+loyola (il),s dakota st,0
+loyola (il),nc greensboro,1
+loyola (il),montana,1
+loyola (il),lipscomb,1
+loyola (il),n.c. central,1
+loyola (il),texas southern,1
+davidson,buffalo,0
+davidson,wright st,1
+davidson,georgia st,1
+davidson,maryland-baltimore county,1
+davidson,xavier,1
+davidson,north carolina,0
+davidson,michigan,0
+davidson,gonzaga,1
+davidson,ohio st,0
+davidson,houston,0
+davidson,texas a&m,1
+davidson,missouri,1
+davidson,florida st,1
+davidson,providence,0
+davidson,san diego st,1
+davidson,s dakota st,0
+davidson,nc greensboro,1
+davidson,montana,1
+davidson,lipscomb,1
+davidson,n.c. central,1
+davidson,texas southern,1
+buffalo,wright st,0
+buffalo,georgia st,0
+buffalo,maryland-baltimore county,1
+buffalo,xavier,0
+buffalo,north carolina,0
+buffalo,michigan,1
+buffalo,gonzaga,1
+buffalo,ohio st,1
+buffalo,houston,1
+buffalo,texas a&m,1
+buffalo,missouri,0
+buffalo,florida st,0
+buffalo,providence,1
+buffalo,san diego st,0
+buffalo,s dakota st,0
+buffalo,nc greensboro,0
+buffalo,montana,1
+buffalo,lipscomb,1
+buffalo,n.c. central,1
+buffalo,texas southern,1
+wright st,georgia st,0
+wright st,maryland-baltimore county,1
+wright st,xavier,0
+wright st,north carolina,0
+wright st,michigan,0
+wright st,gonzaga,0
+wright st,ohio st,0
+wright st,houston,0
+wright st,texas a&m,0
+wright st,missouri,0
+wright st,florida st,0
+wright st,providence,0
+wright st,san diego st,0
+wright st,s dakota st,0
+wright st,nc greensboro,0
+wright st,montana,0
+wright st,lipscomb,0
+wright st,n.c. central,1
+wright st,texas southern,1
+georgia st,maryland-baltimore county,1
+georgia st,xavier,0
+georgia st,north carolina,0
+georgia st,michigan,1
+georgia st,gonzaga,0
+georgia st,ohio st,0
+georgia st,houston,0
+georgia st,texas a&m,0
+georgia st,missouri,1
+georgia st,florida st,0
+georgia st,providence,0
+georgia st,san diego st,1
+georgia st,s dakota st,1
+georgia st,nc greensboro,0
+georgia st,montana,1
+georgia st,lipscomb,1
+georgia st,n.c. central,1
+georgia st,texas southern,1
+maryland-baltimore county,xavier,0
+maryland-baltimore county,north carolina,0
+maryland-baltimore county,michigan,0
+maryland-baltimore county,gonzaga,0
+maryland-baltimore county,ohio st,0
+maryland-baltimore county,houston,0
+maryland-baltimore county,texas a&m,0
+maryland-baltimore county,missouri,0
+maryland-baltimore county,florida st,0
+maryland-baltimore county,providence,0
+maryland-baltimore county,san diego st,0
+maryland-baltimore county,s dakota st,0
+maryland-baltimore county,nc greensboro,0
+maryland-baltimore county,montana,0
+maryland-baltimore county,lipscomb,0
+maryland-baltimore county,n.c. central,1
+maryland-baltimore county,texas southern,1
+xavier,north carolina,0
+xavier,michigan,1
+xavier,gonzaga,0
+xavier,ohio st,1
+xavier,houston,1
+xavier,texas a&m,1
+xavier,missouri,1
+xavier,florida st,1
+xavier,providence,0
+xavier,san diego st,1
+xavier,s dakota st,1
+xavier,nc greensboro,1
+xavier,montana,1
+xavier,lipscomb,1
+xavier,n.c. central,1
+xavier,texas southern,1
+north carolina,michigan,1
+north carolina,gonzaga,0
+north carolina,ohio st,1
+north carolina,houston,1
+north carolina,texas a&m,1
+north carolina,missouri,1
+north carolina,florida st,1
+north carolina,providence,1
+north carolina,san diego st,1
+north carolina,s dakota st,1
+north carolina,nc greensboro,1
+north carolina,montana,1
+north carolina,lipscomb,1
+north carolina,n.c. central,1
+north carolina,texas southern,1
+michigan,gonzaga,0
+michigan,ohio st,0
+michigan,houston,0
+michigan,texas a&m,1
+michigan,missouri,0
+michigan,florida st,1
+michigan,providence,1
+michigan,san diego st,0
+michigan,s dakota st,0
+michigan,nc greensboro,1
+michigan,montana,1
+michigan,lipscomb,1
+michigan,n.c. central,1
+michigan,texas southern,1
+gonzaga,ohio st,1
+gonzaga,houston,1
+gonzaga,texas a&m,1
+gonzaga,missouri,1
+gonzaga,florida st,1
+gonzaga,providence,1
+gonzaga,san diego st,1
+gonzaga,s dakota st,0
+gonzaga,nc greensboro,1
+gonzaga,montana,1
+gonzaga,lipscomb,1
+gonzaga,n.c. central,1
+gonzaga,texas southern,1
+ohio st,houston,1
+ohio st,texas a&m,0
+ohio st,missouri,0
+ohio st,florida st,1
+ohio st,providence,1
+ohio st,san diego st,1
+ohio st,s dakota st,1
+ohio st,nc greensboro,1
+ohio st,montana,1
+ohio st,lipscomb,1
+ohio st,n.c. central,1
+ohio st,texas southern,1
+houston,texas a&m,1
+houston,missouri,1
+houston,florida st,1
+houston,providence,1
+houston,san diego st,1
+houston,s dakota st,1
+houston,nc greensboro,1
+houston,montana,1
+houston,lipscomb,1
+houston,n.c. central,1
+houston,texas southern,1
+texas a&m,missouri,0
+texas a&m,florida st,1
+texas a&m,providence,0
+texas a&m,san diego st,0
+texas a&m,s dakota st,0
+texas a&m,nc greensboro,1
+texas a&m,montana,1
+texas a&m,lipscomb,1
+texas a&m,n.c. central,1
+texas a&m,texas southern,1
+missouri,florida st,1
+missouri,providence,0
+missouri,san diego st,1
+missouri,s dakota st,1
+missouri,nc greensboro,1
+missouri,montana,0
+missouri,lipscomb,1
+missouri,n.c. central,1
+missouri,texas southern,1
+florida st,providence,1
+florida st,san diego st,1
+florida st,s dakota st,1
+florida st,nc greensboro,1
+florida st,montana,1
+florida st,lipscomb,1
+florida st,n.c. central,1
+florida st,texas southern,1
+providence,san diego st,0
+providence,s dakota st,1
+providence,nc greensboro,1
+providence,montana,1
+providence,lipscomb,1
+providence,n.c. central,1
+providence,texas southern,1
+san diego st,s dakota st,0
+san diego st,nc greensboro,1
+san diego st,montana,1
+san diego st,lipscomb,1
+san diego st,n.c. central,1
+san diego st,texas southern,1
+s dakota st,nc greensboro,0
+s dakota st,montana,1
+s dakota st,lipscomb,1
+s dakota st,n.c. central,1
+s dakota st,texas southern,1
+nc greensboro,montana,0
+nc greensboro,lipscomb,1
+nc greensboro,n.c. central,1
+nc greensboro,texas southern,1
+montana,lipscomb,1
+montana,n.c. central,1
+montana,texas southern,1
+lipscomb,n.c. central,1
+lipscomb,texas southern,1
+n.c. central,texas southern,0
